@@ -1,0 +1,654 @@
+numb
+notice
+maps
+pleased
+homework
+especially
+end
+fogged
+chargers
+enterprise
+favorable
+cylinders
+good
+shutters
+complained
+hauling
+offer
+gives
+engaged
+asked
+reverse
+cornering
+howard
+disable
+fishtailing
+sit
+trunk
+cause
+stereo
+sloppy
+acadias
+generally
+setting
+enter
+adjusting
+ages
+sensation
+sand
+gradethe
+spec
+star
+bed
+silence
+headaches
+research
+fine
+sounds
+disappointment
+hey
+overcome
+climate
+performs
+suvs
+beauty
+subpar
+illuminated
+ipod
+necessary
+patch
+windshield
+guests
+obd
+trade
+extra
+objects
+boost
+downsize
+painfully
+wants
+felt
+overstated
+blind
+couple
+favorite
+cellphone
+styling
+hemi
+failed
+review
+commuter
+begin
+january
+recurring
+complete
+mix
+bell
+place
+became
+completely
+fastest
+perfect
+mossy
+forever
+tolerance
+impossible
+vale
+blacktop
+picture
+fade
+outside
+lack
+approximately
+third
+designengineering
+luxury
+finally
+joy
+sunroof
+economical
+package
+airbags
+impressive
+cds
+fuel
+totally
+black
+including
+together
+signing
+quirky
+stays
+listen
+nicely
+frequencies
+defect
+mechanic
+date
+block
+warning
+kid
+agree
+equipment
+complaingiven
+costs
+frustrations
+aches
+rpms
+improvements
+everybody
+quickly
+day
+hate
+borders
+approach
+weight
+buying
+invested
+temps
+perfectly
+passing
+sticky
+expecting
+slide
+resulted
+vibration
+roads
+estate
+got
+roof
+tail
+kids
+telescoping
+gate
+rouge
+knows
+looking
+anyways
+mechanical
+literally
+aspiriated
+rpm
+outer
+struts
+belief
+visits
+term
+lurches
+glorified
+degrees
+real
+removed
+lowerback
+resumes
+questionable
+deployed
+wiper
+okay
+spare
+blindly
+expensive
+washed
+carthat
+direction
+awd
+length
+america
+timing
+fantastic
+higher
+foot
+communications
+engines
+noisy
+mention
+save
+stated
+chest
+fact
+heat
+significant
+edition
+suggestions
+older
+brings
+high
+vehicles
+realize
+decent
+smashing
+faulty
+causes
+grocery
+feels
+tow
+rangemiles
+rent
+hear
+condition
+tightened
+packed
+caught
+system
+cab
+jbl
+lousy
+super
+winding
+exhaust
+distances
+quarter
+price
+mylinkdoes
+moparsbought
+bright
+cheaper
+gave
+distraction
+talking
+deadening
+frustration
+texas
+saved
+starter
+switch
+imo
+solidly
+seems
+delivered
+case
+gocart
+update
+jobs
+plus
+popped
+christmas
+worked
+clarkhowardcom
+really
+option
+refreshed
+clark
+backlumbar
+resistant
+break
+level
+concrete
+row
+windows
+check
+even
+yes
+additionally
+bumping
+one
+refuses
+continually
+generation
+panels
+gruff
+constant
+lauderdale
+found
+subscription
+stiff
+motors
+amplifier
+least
+numbers
+halogen
+heard
+oil
+month
+week
+sick
+tall
+marin
+effect
+coyote
+jose
+adult
+japanese
+know
+circumstances
+runup
+constantly
+awful
+blown
+anniv
+railroad
+edmunds
+viewing
+seating
+squeak
+knee
+record
+twisting
+negative
+supercrew
+potential
+cabin
+convinced
+ltz
+ice
+style
+rattleing
+sloped
+rid
+boxy
+sold
+typically
+radio
+quiropractor
+parcel
+rattles
+odometer
+paperwork
+andor
+manufacturing
+opened
+deal
+turn
+plentiful
+cold
+hill
+gripes
+anyone
+tach
+attachment
+affordable
+less
+contortions
+femininity
+glitch
+ticking
+mind
+touch
+toddler
+gem
+practice
+connect
+bumper
+touchscreen
+unexpectedly
+upper
+meantime
+unbelievable
+diagnosed
+tamed
+chairs
+regrets
+lumbar
+say
+roughly
+gen
+hole
+signal
+unsolicited
+things
+sucks
+vendor
+line
+performance
+wholly
+wishing
+ends
+reversed
+made
+use
+relatively
+hook
+year
+monthly
+owners
+crossings
+series
+roadnoise
+enough
+seemed
+outrageous
+absolutely
+name
+gps
+includes
+pacer
+certaintyi
+mirrors
+advise
+wait
+sux
+rather
+pain
+put
+clip
+silver
+keep
+surprising
+discontinued
+poorvery
+demands
+dash
+absolute
+vehiclefor
+depends
+seat
+complaint
+hurt
+comforts
+come
+starting
+realy
+ended
+toss
+brakings
+increased
+accelerate
+buffering
+try
+surprise
+journalists
+top
+hills
+consistently
+sweet
+hwy
+fiction
+pull
+inventory
+freeway
+display
+welli
+recommend
+poorly
+wonderful
+nice
+folding
+interface
+buckled
+touchy
+settles
+second
+pure
+lines
+rattled
+prior
+barriers
+twisty
+areas
+makes
+orange
+empty
+market
+handled
+fire
+fought
+replacing
+rated
+strongly
+dump
+suppose
+aligned
+force
+sunglasses
+chaining
+false
+touring
+captains
+loss
+ability
+slows
+company
+(u'lens', u'sight')
+(u'blind', u'spot')
+(u'departure', u'warning')
+(u'rearview', u'mirror')
+(u'touch', u'screen')
+(u'gas', u'mileage')
+(u'cvt', u'transmissions')
+(u'usb', u'port')
+(u'nothing', u'else')
+(u'nothing', u'happens')
+(u'backup', u'camera')
+(u'climate', u'control')
+(u'steering', u'wheel')
+(u'plenty', u'room')
+(u'cruise', u'control')
+(u'view', u'mirror')
+(u'read', u'reviews')
+(u'stopped', u'working')
+(u'problem', u'continues')
+(u'check', u'light')
+(u'fuel', u'economy')
+(u'leg', u'room')
+(u'battery', u'nothing')
+(u'worst', u'ever')
+(u'highway', u'traction')
+(u'even', u'though')
+(u'year', u'old')
+(u'safety', u'features')
+(u'fun', u'drive')
+(u'interior', u'materials')
+(u'3000', u'miles')
+(u'blind', u'side')
+(u'price', u'range')
+(u'spot', u'side')
+(u'warning', u'side')
+(u'best', u'ever')
+(u'long', u'trips')
+(u'dealer', u'said')
+(u'road', u'noise')
+(u'interior', u'looks')
+(u'back', u'seat')
+(u'passenger', u'side')
+(u'awd', u'driver')
+(u'gas', u'tank')
+(u'trunk', u'space')
+(u'fell', u'love')
+(u'drivers', u'seat')
+(u'buy', u'another')
+(u'ecoboost', u'power')
+(u'handles', u'snow')
+(u'handles', u'well')
+(u'mpg', u'trip')
+(u'test', u'drive')
+(u'would', u'recommend')
+(u'brand', u'new')
+(u'heated', u'seats')
+(u'seat', u'plenty')
+(u'audio', u'system')
+(u'seats', u'uncomfortable')
+(u'seems', u'issue')
+(u'start', u'stop')
+(u'check', u'engine')
+(u'engine', u'traction')
+(u'took', u'dealer')
+(u'never', u'buy')
+(u'speed', u'transmission')
+(u'head', u'room')
+(u'vibration', u'problem')
+(u'looking', u'forward')
+(u'rear', u'window')
+(u'never', u'another')
+(u'highway', u'light')
+(u'good', u'visibility')
+(u'economy', u'better')
+(u'reverse', u'drive')
+(u'mileage', u'per')
+(u'smooth', u'ride')
+(u'getting', u'highway')
+(u'feels', u'going')
+(u'comfortable', u'long')
+(u'every', u'time')
+(u'best', u'price')
+(u'comfortable', u'trips')
+(u'rear', u'door')
+(u'engine', u'light')
+(u'automatic', u'transmission')
+(u'transmission', u'horrible')
+(u'miles', u'thought')
+(u'better', u'previous')
+(u'driving', u'experience')
+(u'room', u'back')
+(u'quality', u'issues')
+(u'front', u'seats')
+(u'room', u'seat')
+(u'driver', u'seat')
+(u'cylinder', u'engine')
+(u'much', u'better')
+(u'transmission', u'cvt')
+(u'one', u'week')
+(u'get', u'next')
+(u'ever', u'owned')
+(u'owned', u'months')
+(u'looks', u'great')
+(u'back', u'leg')
+(u'front', u'back')
+(u'good', u'sports')
+(u'new', u'cvt')
+(u'previous', u'vehicle')
+(u'vehicle', u'cylinder')
+(u'transmission', u'problems')
+(u'engine', u'power')
+(u'seats', u'seats')
+(u'nice', u'engine')
+(u'front', u'seat')
+(u'seat', u'room')
+(u'enough', u'room')
+(u'still', u'problem')
+(u'seats', u'comfortable')
+(u'fuel', u'better')
+(u'one', u'smooth')
+(u'seats', u'ever')
+(u'want', u'make')
+(u'roads', u'great')
+(u'great', u'gas')
+(u'rear', u'seats')
+(u'back', u'camera')
+(u'love', u'quality')
+(u'problem', u'problem')
+(u'acceleration', u'good')
+(u'best', u'mileage')
+(u'fuel', u'mileage')
+(u'enough', u'power')
+(u'going', u'road')
+(u'engine', u'highway')
+(u'highway', u'engine')
+(u'would', u'bought')
+(u'pretty', u'good')
+(u'problems', u'also')
+(u'love', u'looks')
+(u'way', u'much')
+(u'vehicle', u'really')
+(u'great', u'mileage')
+(u'overall', u'great')
+(u'still', u'love')
+(u'looking', u'vehicle')
+(u'mileage', u'better')
+(u'back', u'head')
+(u'system', u'well')
+(u'model', u'one')
+(u'one', u'thing')
+adj_count
+noun_count
+adv_count
+verb_count

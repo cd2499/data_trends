@@ -1,0 +1,1866 @@
+[u'Leased', u'this', u'car', u'on', u'10th', u'(', u'day', u'after', u'my', u'birthday', u')', u'.']
+[u'The', u'BEST', u'car', u'I', u"'ve", u'owned', u'!']
+[u'Comfortable', u'as', u'a', u'mitten', u',', u'drives', u'like', u'butter', u',', u'great', u'room', u'.']
+	ride
+	room
+[u'IN', u'FACT', u'GREAT', u'EVERYTHING', u'!']
+[u'Not', u'at', u'all', u'sluggish', u',', u'and', u'great', u'gas', u'mileage']
+	performance
+	fuel
+	mileage
+[u'this', u'has', u'to', u'be', u'the', u'most', u'uncomfortable', u'car', u'ive', u'ever', u'driven', u',', u'i', u'actually', u'traded', u'a', u'cobalt', u'that', u'i', u'wish', u'i', u'had', u'back', u',', u'im', u'a', u'long', u'time', u'chevrolet', u'and', u'long', u'time', u'customer', u',', u'i', u'will', u'never', u'buy', u'again', u',', u'this', u'car', u'is', u'junk', u',', u'offers', u'no', u'support', u',', u'i', u'was', u'actually', u'tol', u'``', u'too', u'bad', u',', u'you', u'bought', u'it', u"''", u'``', u'maybe', u'you', u'should', u'have', u'shopped', u'more', u"''", u'no', u'way', u'to', u'treat', u'a', u'customer', u'if', u'you', u'ask', u'me', u'.']
+	comfort
+	ride
+[u'First', u'I', u"'d", u'like', u'to', u'say', u'that', u'the', u'negative', u'reviews', u'seem', u'to', u'be', u'from', u'people', u'who', u"'ve", u'rented', u'the', u'car', u'(', u'and', u'know', u'nothing', u'about', u'it', u')', u',', u'bought', u'it', u'used', u',', u'or', u'are', u'weirded', u'out', u'by', u'the', u'Eco', u'4cyl', u'engine', u'.']
+	engine
+[u'I', u'bought', u'my', u'LS', u'new', u'after', u'trading', u'in', u'my', u'LT', u'.']
+[u'I', u'love', u'the', u'engine', u'which', u'cuts', u'the', u'engine', u'off', u'after', u'you', u'brake', u'for', u'extended', u'periods', u'of', u'time', u',', u'then', u'cuts', u'back', u'on', u'after', u'you', u'let', u'off', u'the', u'brake', u'.']
+	engine
+	brakes
+[u'quite', u'a', u'few', u'cars', u'have', u'this', u'set', u'up', u',', u'you', u'hardly', u'notice', u'it', u'and', u'it', u'saves', u'a', u'good', u'deal', u'of', u'MPG', u"'s", u'.']
+	cost
+	mpg
+[u'Especially', u'if', u'you', u"'re", u'in', u'traffic', u'!', u'!']
+[u'As', u'a', u'bonus', u'you', u'still', u'take', u'off', u'just', u'as', u'fast', u'if', u'not', u'faster', u'than', u'you', u'would', u'had', u'the', u'engine', u'still', u'been', u'running', u'.']
+	engine
+[u'The', u'trunk', u'can', u'be', u'opened', u'via', u'key', u'fob', u'or', u'a', u'small', u'button', u'on', u'the', u'middle', u'tail', u'light', u'when', u'doors', u'are', u'unlocked', u'.']
+	storage
+	locks
+	buttons
+	lights
+[u'It', u"'s", u'a', u'huge', u'step', u'up', u',', u'just', u'the', u'amount', u'of', u'space', u'I', u"'m", u'used', u'to', u'in', u'front', u'and', u'back-it', u"'s", u'a', u'bit', u'more', u'snug', u'in', u'back', u',', u'.the', u'trunk', u'is', u'a', u'bit', u'bigger', u'now', u'.']
+	room
+	storage
+[u'if', u'you', u"'re", u'a', u'fan', u'of', u',', u'want', u'a', u'midsize', u'sedan', u'with', u'a', u'some', u'``', u'getup', u'and', u'go', u"''", u',', u'a', u'bit', u'of', u'style', u',', u'and', u'want', u'good', u'MPG', u"'s", u'this', u'is', u'the', u'car', u'for', u'you', u'.']
+	looks
+	mpg
+[u'If', u'legroom', u'in', u'back', u'is', u'an', u'issue', u',', u'grab', u'an', u'impala', u'.']
+	room
+	issues
+[u'I', u'bought', u'my', u'LT', u'2', u'months', u'ago', u'and', u'I', u'love', u'driving', u'it', u'!']
+	ride
+[u'It', u'has', u'great', u'acceleration', u',', u'and', u'engine', u'noise', u'is', u'minimal', u',', u'handles', u'great', u'and', u'feels', u'very', u'secure', u'when', u'driving', u'.']
+	acceleration
+	engine
+	noise
+[u'Other', u'things', u'I', u'like', u':', u'huge', u'trunk', u'space', u',', u'awesome', u'mileage', u'-', u'33', u'mpg', u'overall', u',', u'dealers', u'everywhere', u'if', u'needed-even', u'rural', u'areas', u',', u'ambient', u'blue', u'lighting', u'at', u'night', u',', u'remote', u'start', u'for', u'winters', u',', u'back', u'up', u'camera', u'for', u'parking', u'and', u'safety', u',', u'road', u'hugging', u',', u'interior/exterior', u'fit', u'and', u'finish', u',', u'styling', u',', u'concealed', u'tail', u'pipe', u',', u'value', u'for', u'the', u'money', u',', u'buying', u'experience', u'at', u'my', u'local', u'dealer-', u'no', u'hassle', u'or', u'games', u'.']
+	storage
+	room
+	mileage
+	mpg
+	lights
+	camera
+	safety
+	ride
+	finish
+	looks
+	cost
+[u'Things', u'I', u'do', u"n't", u'like', u'so', u'much', u':', u'no', u'spare', u'tire', u',', u'complicated', u'My', u'Link', u'(', u'I', u'hate', u'reading', u'a', u'manual', u')', u',', u'FM', u'reception', u',', u'that', u"'s", u'about', u'it', u'\U0001f600', u'Overall', u',', u'I', u'would', u'say', u'this', u'car', u'should', u'be', u'driven', u'and', u'checked', u'out', u'if', u'you', u'are', u'looking', u'for', u'a', u'good', u'looking', u'car', u'that', u'performs', u'well', u',', u'can', u'be', u'serviced', u'almost', u'anywhere', u',', u'and', u'is', u'a', u'great', u'value', u'for', u'the', u'money', u'.']
+	tires
+	ride
+	maintenance
+	cost
+[u'I', u'rent', u'very', u'often', u'due', u'to', u'work', u'.']
+[u'I', u'think', u'this', u'is', u'the', u'time', u'in', u'long', u'time', u'that', u'they', u'gave', u'me', u'a', u'.']
+[u'Most', u'of', u'the', u'time', u'I', u'would', u'ask', u'for', u'something', u'else', u'.']
+[u'It', u'has', u'been', u'a', u'disappointment', u'.']
+[u'Like', u'someone', u'else', u'stated', u',', u'the', u'driver', u"'s", u'seat', u'is', u'of', u'the', u'most', u'uncomfortable', u'car', u'that', u'I', u'can', u'think', u'of', u'.']
+	seats
+	comfort
+[u'You', u'are', u'sitting', u'so', u'low', u'that', u'you', u'can', u'not', u'see', u'over', u'the', u'dashboard', u'.']
+	dashboard
+[u'If', u'you', u'raise', u'the', u'seat', u',', u'your', u'right', u'leg', u'has', u'to', u'press', u'down', u'on', u'the', u'seat', u'to', u'reach', u'the', u'pedals', u'.']
+	seats
+[u'I', u'guess', u'this', u'car', u'is', u'designed', u'for', u'long', u'legs', u'.']
+	design
+	looks
+[u'Anyway', u'my', u'biggest', u'complaint', u'is', u'the', u'steering', u'.']
+	steering
+[u'I', u'strongly', u'suspect', u'this', u'is', u'because', u'it', u'is', u'a', u'rental', u'and', u'has', u'been', u'abused.the', u'steering', u'give', u'a', u'step', u'change', u'whenever', u'I', u'turn', u'it', u'slightly', u'right', u'.']
+	steering
+[u'This', u'is', u'extremely', u'dangerous.I', u'was', u'too', u'lazy', u'to', u'switch', u'it', u'out', u'.']
+[u'Recently', u'had', u'to', u'have', u'a', u'rental', u'while', u'my', u'Camry', u'V6', u'XLE', u'was', u'in', u'for', u'collision', u'repairs', u'.']
+	issues
+[u'Let', u'me', u'say', u'right', u'away', u'I', u'never', u'was', u'fully', u'satisfied', u'with', u'my', u"'s", u'ride', u'.']
+	ride
+[u'It', u"'s", u'far', u'too', u'taught', u'and', u'the', u'ride', u'reminded', u'me', u'of', u'a', u'go-kart', u'.']
+	ride
+[u'The', u'Camry', u'is', u'fast', u'and', u'nimble', u',', u'.hard', u'to', u'endure', u'on', u'long', u'road', u'trips', u'.']
+	ride
+[u'As', u'soon', u'as', u'I', u'sat', u'into', u'the', u"'s", u'driver', u'seat', u',', u'I', u'was', u'instantly', u'comfortable', u'.']
+	seats
+[u'Of', u'course', u',', u'it', u"'s", u'a', u'and', u'its', u'not', u'a', u'sport', u'edition', u',', u'so', u'it', u'may', u'be', u'disingenuous', u'to', u'compare', u'the', u'ride', u'comfort', u'of', u'the', u'vs', u'the', u'Malibu', u',', u'.even', u'the', u'later', u'90', u"'s", u'had', u'a', u'better', u'ride', u'than', u'the', u'.']
+	ride
+	comfort
+[u'thing', u'my', u'V6', u'Camry', u'is', u'good', u'at', u'however', u'is', u'acceleration', u'.']
+	acceleration
+[u'It', u"'s", u'a', u'loud', u'V6', u'at', u'idle', u',', u'.it', u'moves', u'swiftly', u'.']
+	noise
+	feel
+[u'The', u'base', u'engine', u'on', u'the', u'other', u'hand', u'is', u'too', u'slow', u'on', u'acceleration', u',', u'and', u'when', u'it', u'does', u'respond', u',', u'it', u'is', u'anemic', u'and', u'I', u'almost', u'feel', u'like', u'I', u'may', u'be', u'injuring', u'the', u'thing', u'when', u'I', u'step', u'on', u'the', u'gas', u'.']
+	engine
+	acceleration
+	feel
+	fuel
+[u'But', u'the', u'ride', u'is', u'awesome', u'.']
+	ride
+[u'Comfortable', u'without', u'feeling', u'too', u'plush', u',', u'and', u'not', u'claustrophobic', u'like', u'some', u'other', u'newer', u'model', u'cars', u'.']
+	feel
+[u'Visibility', u'is', u'not', u'great', u',', u'.no', u'worse', u'than', u'the', u"'s", u'.']
+	visibility
+[u'What', u'ever', u'happened', u'to', u'large', u'side', u'and', u'rear', u'mirrors', u'of', u'yesteryear', u'?']
+	amenities
+[u'The', u'materials', u'are', u'much', u'better', u'than', u'my', u'or', u'any', u'I', u'had', u'been', u'in', u'recently', u'.']
+	materials
+[u'Overall', u',', u'if', u'it', u'holds', u'reliable', u',', u'this', u'would', u'be', u'a', u'solid', u'choice', u'if', u'the', u'base', u'engine', u'was', u'quicker', u'.']
+	reliability
+	engine
+[u'If', u'you', u'can', u'afford', u'a', u'step-up', u'in', u'engine', u'level', u'(', u'turbo', u'or', u'a', u'v6', u')', u',', u'it', u'may', u'just', u'be', u'perfect', u'.']
+	cost
+	engine
+[u'It', u"'s", u'easy', u'to', u'hook', u'up', u'all', u'of', u'you', u'wife', u'and', u'blue', u'tooth', u',', u'making', u'hands', u'free', u'a', u'standard', u'thing', u'.']
+[u'Great', u'on', u'gas', u',', u'love', u'the', u'interior', u',', u'Had', u'other', u"'s", u'in', u'the', u'past', u'that', u'lasted', u'and', u'lasted', u'.']
+	fuel
+	interior
+[u'I', u'mean', u'like', u'and', u'still', u'humming', u'along', u'!']
+[u'Dependable', u',', u'safe', u'and', u'beats', u'everyone', u'on', u'price', u'except', u'the', u'inferior', u'brands', u'.']
+	reliability
+	cost
+[u'Would', u'let', u'my', u'kids', u'travel', u'in', u'it', u'or', u'recommend', u'to', u'someone', u"'s", u'mom', u'.']
+[u'I', u'love', u'this', u'car~', u'!', u'!', u'!']
+[u'Update', u'on', u'5-30-2016', u'.']
+[u'After', u'months', u'driving', u'it', u',', u'I', u'love', u'it', u'even', u'more', u'.']
+	ride
+[u'My', u'mileage', u'is', u'averaging', u'between', u'28-.5-29.6', u'MGP', u'.']
+	mileage
+[u'I', u'drive', u'36', u'miles', u'per', u'day', u'round', u'trip', u'to', u'work', u'and', u'with', u'SeriousXM', u',', u'it', u'seems', u'like', u'a', u'minute', u'drive', u'and', u'I', u'have', u'to', u'sit', u'in', u'the', u'car', u'to', u'finish', u'listening', u'to', u'something', u'every', u'day', u'!']
+	ride
+	finish
+[u'After', u'miles', u'what', u'a', u'poor', u'constructed', u'vehicle', u'ride', u'and', u'road', u'noise', u'is', u'poor', u'.']
+	built
+	ride
+	noise
+[u'Come', u'on', u'is', u'this', u'really', u'the', u'best', u'you', u'can', u'do', u'on', u'this', u'vehicle', u'?']
+[u'Also', u'get', u'rid', u'of', u'that', u'auto', u'stop', u'makes', u'the', u'vehicle', u'feel', u'like', u'I', u'am', u'driving', u'a', u'cheep', u'golf', u'cart', u'.']
+	feel
+	ride
+[u'Fuel', u'mileage', u'is', u'poor', u'I', u'do', u'better', u'in', u'my', u'full', u'size', u'Dodge', u'Challenger', u'with', u'a', u'engine', u'.']
+	fuel
+	mileage
+	size
+	engine
+[u'This', u'car', u'is', u'of', u'the', u'most', u'solid', u'cars', u'I', u'have', u'driven', u'.']
+	ride
+[u'I', u'rent', u'several', u'and', u'buy', u'new', u'every', u'3-4', u'years', u'.']
+[u'Crossing', u'RR', u'tracks', u'and', u'not', u'a', u'sound', u',', u'rattle', u',', u'or', u'noise', u'.']
+	noise
+[u'The', u'stop', u'start', u'engine', u'is', u'great', u'.']
+	engine
+[u'Plenty', u'of', u'pep', u'and', u'gas', u'mileage', u'is', u'great', u'.']
+	fuel
+	mileage
+[u'We', u'use', u'this', u'car', u'mainly', u'in', u'the', u'city', u'and', u'suburban', u'driving', u'.']
+	mpg
+[u'Other', u'cars', u'of', u'the', u'same', u'size', u'and', u'engine', u'I', u'would', u'average', u'MPG', u'.']
+	size
+	engine
+	mpg
+[u'This', u'with', u'the', u'stop', u'start', u'at', u'many', u'stop', u'and', u'go', u'lights', u'we', u'run', u'into', u',', u'is', u'getting', u'and', u'average', u'of', u'26-27', u'.']
+	lights
+[u'Highway', u'drives', u'are', u'in', u'the', u'upper', u"'s", u'.']
+	highway
+	ride
+[u'I', u'like', u'the', u'stop/start', u'.']
+[u'Our', u'neighbor', u'travels', u'to', u'and', u'almost', u'all', u'the', u'cars', u'have', u'it', u'there', u'.']
+[u'He', u'road', u'with', u'me', u'and', u'said', u'the', u'one', u'is', u'better', u'the', u'or', u'he', u'has', u'driven', u'.']
+	ride
+[u'He', u'said', u'you', u'do', u"n't", u'even', u'feel', u'it', u'.']
+	feel
+[u'The', u'tan', u'leather', u'interior', u'we', u'ordered', u'gets', u'everyone', u'attention', u'.']
+	materials
+	interior
+[u'Said', u'it', u'looks', u'like', u'a', u'luxury', u'car', u',', u'better', u'then', u'a', u'friends', u'BMW', u'.']
+[u'Only', u'terrible', u'thing', u'we', u'had', u'to', u'have', u'fixed', u'is', u'the', u'awful', u'front', u'seats', u'with', u'a', u'big', u'lumbar', u'bulge', u'.']
+	seats
+[u'Some', u'people', u'would', u'not', u'mind', u'this', u'or', u'even', u'like', u'it', u',', u'.my', u'wife', u'and', u'I', u'both', u'have', u'bad', u'backs', u'and', u'need', u'perfectly', u'flat', u'back', u'rest', u'.']
+[u'My', u'feet', u'when', u'numb', u'.']
+[u'Had', u'to', u'take', u'to', u'a', u'trim', u'shop', u'and', u'have', u'the', u'bulge', u'taken', u'out', u'.']
+[u'My', u'was', u'great', u'.']
+[u'perfectly', u'flat', u'back', u'rest', u'and', u'if', u'you', u'wanted', u'a', u'bulge', u'it', u'had', u'a', u'power', u'lumbar', u',', u'but', u'it', u'would', u'adjust', u'to', u'completely', u'flat', u'as', u'it', u'should', u'.']
+	power
+	seats
+[u'We', u'live', u'in', u',', u'Ca', u'where', u'if', u'you', u'need', u'to', u'go', u'to', u'Doctors', u'out', u'of', u'the', u'area', u'you', u'have', u'to', u'drive', u'curvy', u'and', u'crocked', u'roads', u'.']
+	ride
+[u'Whether', u'it', u'is', u'in', u'Rosa', u'or', u'City', u',', u'Ca..', u'We', u'bought', u'the', u'Chevy', u'Malibu', u'LS', u'ECO', u'2015', u'from', u'Auto', u'in', u',', u'Ca', u'NEW', u'and', u'on', u'our', u'way', u'home', u'in', u'the', u'mountains', u'we', u'go', u'38+', u'mpg', u'.']
+	mpg
+[u'and', u'in', u'town', u'we', u'get', u'about', u'25mpg', u'my', u'Tahoe', u'only', u'got', u'in', u'town', u'and', u'around', u'17=+', u'on', u'the', u'open', u'road', u'.']
+	ride
+[u'The', u'Chevy', u'Malibu', u'has', u'lots', u'of', u'power', u'going', u'up', u'and', u'down', u'the', u'mountains', u'.']
+	power
+[u'I', u'love', u'my', u'New', u'car', u'.']
+[u'Have', u'had', u'a', u'Malibu', u'LS', u'for', u'a', u'month', u'.']
+[u'Great', u'gas', u'mileage', u',', u'decent', u'power', u'(', u'but', u'it', u'is', u'no', u'dragster', u')', u',', u'reasonable', u'handling.lacks', u'road', u'feel', u'.']
+	fuel
+	mileage
+	power
+	ride
+	feel
+[u'Cons', u':', u'poor', u'rear', u'visibility', u',', u'no', u'spare', u'tire', u',', u'a', u'bunch', u'of', u'electronics', u'piled', u'on', u'top', u'of', u'the', u'battery', u'making', u'it', u'difficult', u'to', u'check', u'water', u'level', u'(', u'something', u'you', u'do', u'in', u'a', u'very', u'hot', u'climate', u'like', u'mine', u')', u'and', u'lots', u'of', u'road', u'noise', u'.']
+	visibility
+	tires
+	battery
+	ac
+	ride
+	noise
+[u'Transmission', u'seems', u'to', u'occasionally', u'hunt', u'gears', u'at', u'mid', u'throttle', u'going', u'40-50', u'mph', u'.']
+	transmission
+	gears
+[u'I', u'hated', u'auto', u'stop', u'on', u'my', u'Civic', u'Hybrid', u'and', u'dislike', u'it', u'on', u'this', u'car', u'-', u'maybe', u'I', u"'m", u'just', u"'old", u'school', u"'", u'.']
+[u'I', u'personally', u'prefer', u'my', u'older', u'with', u'miles', u'on', u'it', u'.']
+[u'I', u'would', u'characterize', u'this', u'car', u'as', u'a', u'typical', u'5', u'passenger', u'car', u'from', u'which', u'they', u'have', u'engineered', u'out', u'every', u'possible', u'cost', u'and', u'I', u'am', u'only', u'marginally', u'satisfied', u'with', u'this', u'car', u'.']
+	cost
+[u'I', u'bought', u'the', u'new', u'after', u'owning', u'a', u'2000', u'Monte', u'Carlo', u'SS', u'I', u'bought', u'brand', u'new', u'.']
+[u'Love', u'my', u'.']
+[u'Not', u'as', u'much', u'room', u'as', u'the', u'Monte', u'Carlo', u'and', u'a', u'little', u'harder', u'to', u'get', u'out', u'of.love', u'the', u'gas', u'mileage', u'.']
+	room
+	fuel
+	mileage
+[u'I', u'have', u'owned', u'many', u'cars', u'including', u'Benz', u',', u',', u'and', u'other', u'premium', u'brands', u'.']
+[u'This', u'car', u'impresses', u'me', u'for', u'its', u'value', u'.']
+	cost
+[u'It', u'is', u'solidly', u'built', u'with', u'quality', u'materials', u'.']
+	quality
+	materials
+[u'It', u'rides', u'well', u',', u'it', u'handles', u'well', u',', u'it', u'accelerates', u'well', u',', u'it', u'is', u'comfortable', u'on', u'long', u'drives', u'and', u'it', u'gets', u'incredible', u'fuel', u'economy', u'for', u'its', u'size', u'and', u'weight', u'.']
+	acceleration
+	ride
+	fuel
+	size
+[u'The', u'only', u'complaints', u'I', u'have', u'are', u'the', u'limited', u'room', u'in', u'the', u'rear', u'passenger', u'area', u'and', u'the', u'blind', u'spots', u'in', u'the', u'rear', u'.']
+	room
+	visibility
+[u'I', u'recently', u'drove', u'the', u'car', u'from', u'to', u'.']
+	ride
+[u'My', u'average', u'speed', u'was', u'mph', u'.']
+[u'My', u'average', u'fuel', u'economy', u'was', u'better', u'than', u'36', u'mpg', u'.']
+	fuel
+	mpg
+[u'Maintenance', u'costs', u'are', u'fantastic', u'.']
+	maintenance
+	cost
+[u'Regular', u'maintenance', u'on', u'this', u'car', u'is', u'$', u'40', u'per', u'visit', u'compared', u'to', u'over', u'$', u'per', u'visit', u'for', u'my', u'wife', u"'s", u'C', u'Class', u'.']
+	maintenance
+[u'I', u'wo', u"n't", u'even', u'go', u'into', u'the', u'maintenance', u'costs', u'I', u'experienced', u'as', u'a', u'owner', u'.']
+	maintenance
+	cost
+[u'Overall', u',', u'this', u'car', u'compares', u'quite', u'favorably', u'to', u'similar', u'offerings', u'by', u'or', u'.']
+[u'I', u'drive', u'this', u'car', u'a', u'lot', u'having', u'put', u'over', u'miles', u'on', u'it', u'in', u'year', u'.']
+	ride
+[u'All', u'of', u'that', u'mileage', u'and', u'no', u'significant', u'problems', u'at', u'all', u'.']
+	mileage
+	issues
+[u'This', u'is', u'not', u'a', u'sports', u'car', u'and', u'it', u'was', u"n't", u'designed', u'as', u'one', u'.']
+	design
+	looks
+[u'So', u',', u'everyone', u'complaining', u'about', u'handling', u'and', u'acceleration', u'are', u'comparing', u'apples', u'to', u'oranges', u'.']
+	acceleration
+[u'It', u'drives', u'quite', u'well', u'and', u'is', u'very', u'much', u'like', u'any', u'other', u'similar', u'car', u'like', u'the', u'or', u'.']
+	ride
+[u'In', u'my', u'opinion', u',', u'the', u'car', u'is', u'a', u'bit', u'overpriced', u'.']
+	cost
+[u'However', u',', u'I', u'made', u'up', u'for', u'that', u'with', u'GMs', u'military', u'discount', u'which', u'brought', u'the', u'price', u'into', u'reasonable', u'territory', u'.']
+	cost
+[u'Further', u',', u'I', u'doubt', u'that', u'the', u'car', u'will', u'hold', u'its', u'resale', u'value', u'the', u'way', u'or', u'does', u'simply', u'because', u'it', u'is', u'a', u'domestic', u'offering', u'.']
+	cost
+[u'All', u'in', u'all', u',', u'this', u'car', u'does', u'what', u'says', u'it', u'can', u'do', u'.']
+[u'It', u'is', u'a', u'great', u'value', u'and', u'a', u'great', u'car', u'.']
+	cost
+[u'miles', u'on', u'my', u'LS', u'company', u'car', u'so', u'far', u'.']
+[u'has', u'made', u'many', u'improvements', u'over', u'years', u'.']
+[u'My', u'was', u'not', u'a', u'reliable', u'car', u'.']
+	reliability
+[u'For', u'a', u'good', u',', u'basic', u'family', u'sedan', u',', u'the', u'is', u'a', u'decent', u'choice', u'.']
+[u'It', u"'s", u'fairly', u'comfortable', u'.']
+[u'is', u'good', u'.']
+[u'Gas', u'mileage', u'running', u'about', u'29mpg', u'avg', u'so', u'far', u'.']
+	fuel
+	mileage
+[u'Exterior', u'looks', u'great', u'and', u'the', u'new', u'standard', u'aluminum', u'wheels', u'are', u'nice', u'.']
+	exterior
+	tires
+[u'Paint', u'is', u'nice', u'as', u'well', u'.']
+	finish
+[u'Much', u'improved', u'over', u'older', u'quality', u'.']
+	quality
+[u'Modest', u'handling', u'.']
+	handling
+[u'FM', u'reception', u'terrible', u'.']
+[u'Rear', u'view', u'is', u'awful', u'.']
+	visibility
+[u'Many', u'blind', u'spots', u'.']
+	visibility
+[u'This', u'is', u'all', u'great', u'unless', u'you', u'just', u'happen', u'to', u'test', u'drive', u'a', u',', u',', u',', u'or', u'Altima', u'(', u'among', u'others', u')', u'.']
+	ride
+[u'I', u'would', u'recommend', u'any', u'of', u'those', u'over', u'this', u'car', u'if', u'it', u'was', u'my', u'own', u'money', u'on', u'the', u'line', u'.']
+[u'(', u'This', u'is', u'a', u'fleet', u'car', u'for', u'me', u')']
+[u'I', u"'ve", u'had', u'my', u'for', u'a', u'little', u'over', u'a', u'year', u'and', u'I', u'loved', u'it', u'from', u'the', u'moment', u'the', u'salesman', u'pulled', u'it', u'up', u'for', u'me', u'to', u'test', u'drive', u'it', u'.']
+	ride
+[u'Brand', u'new', u'with', u'on', u'miles', u'.']
+[u'I', u"'ve", u'been', u'on', u'a', u'couple', u'road', u'trips', u'and', u'loved', u'the', u'smooth', u'ride', u'and', u'comfort', u'.']
+	ride
+	comfort
+[u'The', u'my', u'link', u'and', u'XM', u'radios', u'are', u'among', u'my', u'favorite', u'features', u'.']
+	radio
+	features
+[u'I', u'have', u'always', u'disliked', u'the', u'start', u'stop', u'function', u'and', u'wished', u'it', u'was', u'a', u'way', u'to', u'disable', u'it', u'.']
+[u'Does', u"n't", u'seem', u'to', u'save', u'much', u'gas', u'and', u'I', u'hate', u'the', u'feeling', u'that', u'my', u'car', u'has', u'stalled', u'.']
+	fuel
+	feel
+[u'few', u'days', u'ago', u'when', u'I', u"'d", u'come', u'to', u'a', u'stop', u'and', u'the', u'feature', u'engaged', u'as', u'normal', u',', u'I', u'let', u'my', u'foot', u'off', u'the', u'brake', u'and', u'my', u'radio', u'cut', u'off', u'for', u'a', u'few', u'seconds', u',', u'then', u'came', u'back', u'on', u'.']
+	features
+	brakes
+	radio
+[u'I', u'thought', u'nothing', u'of', u'it', u'at', u'first', u'until', u'it', u'did', u'it', u'a', u'second', u'time.this', u'time', u'the', u'check', u'engine', u'light', u'came', u'on', u'and', u'now', u'I', u"'m", u'alarmed', u'.']
+	engine
+	lights
+[u'I', u'take', u'it', u'into', u'the', u'dealership', u'to', u'find', u'out', u'the', u'auxiliary', u'battery', u'that', u'powers', u'the', u'features', u'in', u'the', u'car', u'while', u'the', u'engine', u'is', u'shut', u'off', u'is', u'drained', u'and', u'needed', u'to', u'be', u'replaced', u'.']
+	connectivity
+	battery
+	power
+	features
+	engine
+[u'I', u"'ve", u'only', u'had', u'my', u'car', u'for', u'13', u'month', u'and', u'this', u'battery', u'needs', u'to', u'be', u'replaced', u'?']
+	battery
+[u'Luckily', u'it', u"'s", u'under', u'warranty.what', u'happens', u'when', u'the', u'warranty', u'is', u'up', u'?']
+	warranty
+[u'Will', u'I', u'have', u'to', u'replace', u'this', u'battery', u'every', u'year', u'?']
+	battery
+[u'Will', u'it', u'cause', u'electrical', u'problems', u'?']
+	issues
+[u'I', u'also', u'fear', u'that', u'the', u'starter', u'will', u'not', u'last', u'because', u'of', u'the', u'constant', u'starting', u'.']
+[u'As', u'much', u'as', u'I', u'love', u'this', u'car', u'this', u'lack', u'of', u'reliability', u'has', u'disappointed', u'me', u'and', u'makes', u'me', u'worry', u'how', u'this', u'car', u'will', u'hold', u'up', u'after', u'its', u'few', u'years', u'old', u'.']
+	reliability
+[u'I', u'know', u'a', u'battery', u'is', u'nothing', u'and', u'hopefully', u'nothing', u'else', u'happens', u'that', u'is', u'not', u'covered', u'under', u'warranty', u'.']
+	battery
+	warranty
+[u'Well', u'I', u'have', u'had', u'this', u'car', u'for', u'months', u'and', u'I', u'am', u'very', u'happy', u'with', u'it', u',', u'the', u'engine', u'makes', u'good', u'power', u'196hp', u'and', u'the', u'fuel', u'mileage', u'is', u'very', u'good', u'I', u'actually', u'get', u'the', u'advertised', u'mileage', u',', u'the', u'car', u'is', u'very', u'comfortable', u'and', u'all', u'the', u'controls', u'are', u'laid', u'out', u'nice', u'and', u'are', u'very', u'easy', u'to', u'understand', u'and', u'operate', u'it', u'handles', u'great', u'and', u'it', u'is', u'a', u'joy', u'to', u'drive', u'.']
+	engine
+	power
+	fuel
+	mileage
+	control
+	ride
+[u'the', u'only', u'thing', u'I', u'would', u'change', u'is', u'the', u'engine', u'auto', u'start', u'stop', u'feature', u'it', u'works', u'well.I', u'rather', u'not', u'have', u'it', u'and', u'there', u'should', u'be', u'a', u'on-off', u'switch', u'for', u'those', u'of', u'us', u'who', u'would', u'rather', u'have', u'it', u'off.I', u'took', u'care', u'of', u'that', u'and', u'it', u'does', u'not', u'auto', u'start', u'stop', u'unless', u'I', u'want', u'it', u'to', u'.']
+	engine
+	features
+[u'So', u'at', u'this', u'point', u'the', u'car', u'drives', u'and', u'operates', u'just', u'the', u'way', u'I', u'like', u'and', u'I', u'am', u'very', u'happy', u'with', u'it', u'and', u'I', u'would', u'recommend', u'it', u'to', u'anyone', u'who', u'needs', u'a', u'nice', u'mid', u'sized', u'car']
+	ride
+	size
+[u'Some', u'things', u'my', u'original', u'review', u'omitted', u'-', u'yes', u',', u'it', u'is', u'a', u'rental', u',', u'.it', u'had', u'miles', u'on', u'it', u'when', u'I', u'got', u'it', u'.']
+[u'BRAND', u'SPANKING', u'NEW', u'.']
+[u'So', u'my', u'observations', u'are', u'not', u'of', u'a', u'beaten', u'up', u'high', u'mileage', u'rental', u'car', u'.']
+	mileage
+[u'Added', u'remarks', u'-', u'and', u'these', u'are', u'personal', u'observations', u'and', u'may', u'not', u'bother', u'other', u'people', u'-', u'the', u'high', u'back', u'end', u'and', u'no', u'back', u'up', u'camera', u'make', u'parking', u'unnecessarily', u'difficult', u'-', u'parallel', u'or', u'backing', u'into', u'a', u'space', u'.']
+	camera
+	room
+[u'Shockingly', u',', u'I', u'discovered', u'weekend', u'that', u'a', u'bag', u'of', u'golf', u'clubs', u'will', u'not', u'fit', u'in', u'the', u'trunk', u'sideways', u'-', u'only', u'diagonally', u'!']
+	storage
+[u'Even', u'my', u'S', u'2000', u'could', u'hold', u'a', u'couple', u'of', u'bags', u'of', u'golf', u'clubs', u'sideways', u'in', u'the', u'trunk', u'.']
+	storage
+[u'Having', u'to', u'put', u'them', u'in', u'diagonally', u'causes', u'problems', u'packing', u'other', u'items', u'in', u'the', u'trunk', u'.']
+	issues
+	storage
+[u'WHERE', u'IS', u'THE', u'INTERIOR', u'TRUNK', u'RELEASE', u'?', u'?', u'?', u'?', u'!', u'!', u'!', u'!', u'!', u'!']
+	interior
+	storage
+[u'I', u'have', u'looked', u'everywhere', u'-', u'and', u'the', u'remote', u'on', u'the', u'key', u'fob', u'will', u'NOT', u'work', u'when', u'the', u'car', u'is', u'running', u'.']
+	locks
+[u'Why', u'do', u'manufacturers', u'put', u'the', u'gas', u'filler', u'cap', u'on', u'the', u'Passenger', u'side', u'?', u'?', u'?']
+	fuel
+[u'And', u'then', u'it', u'is', u'not', u'intuitive', u'-', u'nothing', u'to', u'grab', u'onto', u',', u'no', u'release', u'in', u'the', u'car', u'-', u'you', u'have', u'to', u'press', u'it', u'to', u'get', u'it', u'to', u'open', u'.']
+[u'All', u'in', u'all', u',', u'the', u'car', u'is', u'replete', u'with', u'annoyances', u'-', u'not', u'surprising', u'to', u'somrone', u'who', u'has', u'owned', u'nothing.the', u'best', u'ergonomically', u'designed', u'cars', u'in', u'the', u'world', u'-', u'Hondas', u'and', u'.']
+	design
+	looks
+[u'I', u'had', u'as', u'rental', u'for', u'week', u'.']
+[u'I', u'drove', u'300', u'miles', u'during', u'week', u'I', u'had', u'it', u'.']
+	ride
+[u'The', u'positives', u'are', u'that', u'the', u'interior', u'is', u'relatively', u'quiet', u'and', u'comfortable', u'considering', u'the', u'price', u'point', u'of', u'this', u'car', u'.']
+	interior
+	noise
+	cost
+[u'There', u'is', u'sufficient', u'power', u'there', u',', u'.it', u'is', u'difficult', u'to', u'access/control', u'because', u'of', u'the', u'drive', u'by', u'wire', u'throttle', u'(', u'more', u'on', u'that', u'later', u')', u'.']
+	power
+	ride
+[u'The', u'brakes', u'are', u'capable', u'and', u'the', u'car', u'holds', u'the', u'road', u'well', u'on', u'twisty/hilly', u'terrain', u'.']
+	brakes
+	ride
+[u'It', u'feels', u'confident', u'and', u'easy', u'to', u'control', u'at', u'highway', u'speeds', u'.']
+	feel
+	control
+	highway
+[u'Gas', u'mileage', u'was', u'OK', u'.']
+	fuel
+	mileage
+[u'The', u'computer', u'informed', u'me', u'that', u'my', u'average', u'was', u'over', u'the', u'course', u'of', u'my', u'time', u'with', u'the', u'car', u'.']
+	computer
+[u'Mostly', u'city/suburban', u'and', u'a', u'little', u'highway', u'driving', u'.']
+	highway
+	ride
+[u'The', u'most', u'glaring', u'issue', u'I', u'noticed', u'immediately', u'is', u'how', u'hard', u'it', u'is', u'to', u'see', u'out', u'of', u'this', u'car', u',', u'both', u'front', u'and', u'back', u'.']
+	issues
+[u'All', u'new', u'cars', u'I', u"'ve", u'driven', u'seem', u'to', u'be', u'this', u'way', u',', u'however', u'.']
+[u'The', u'large', u'A-pillars', u'make', u'it', u'hard', u'to', u'see', u'around', u'a', u'corner', u'and', u'the', u'large', u'C-pillars', u'make', u'it', u'hard', u'to', u'see', u'what', u'is', u'behind', u'you', u'when', u'backing', u'out', u'of', u'a', u'parking', u'space', u'.']
+	room
+[u'The', u'windshield', u'mounted', u'rear', u'view', u'mirror', u'may', u'as', u'well', u'not', u'even', u'be', u'there', u'.']
+	windows
+	visibility
+	amenities
+[u'It', u'is', u'useless', u'unless', u'what', u'you', u'are', u'trying', u'to', u'see', u'is', u'precisely', u'behind', u'the', u'car', u'.']
+[u'Anything', u'to', u'either', u'side', u'is', u'obscured', u'by', u'the', u'C-pillars', u',', u'which', u'creates', u'huge', u'blind', u'spots', u'.']
+[u'The', u'materials', u'on', u'the', u'interior', u'can', u'be', u'described', u'as', u'``', u'cheap', u"''", u'to', u'be', u'kind', u'.']
+	materials
+	interior
+[u'The', u'plastics', u'are', u'hard', u'and', u'the', u'texture', u'is', u'not', u'pleasant', u'to', u'touch', u'.']
+	materials
+[u'My', u'rental', u'had', u'the', u'worst', u'feeling', u'steering', u'wheel', u'of', u'any', u'car', u'I', u'have', u'ever', u'driven', u'.']
+	feel
+	steering
+	tires
+	ride
+[u'It', u'felt', u'like', u'petting', u'a', u'crocodile', u'.']
+[u'I', u'understand', u'that', u'this', u'is', u'an', u'entry', u'level', u'economy', u'car', u'and', u'do', u"n't", u'expect', u'anything', u'to', u'be', u'wrapped', u'in', u'leather', u'or', u'trimmed', u'with', u'wood', u',', u'.I', u"'ve", u'driven', u'econo-boxes', u'from', u'late', u'90', u"'s", u'with', u'better', u'interior', u'finish', u'than', u'this', u'car', u'.']
+	locks
+	materials
+	interior
+	finish
+[u'The', u'worst', u'problem', u'I', u'have', u'saved', u'for', u'last', u'.']
+	issues
+[u'It', u'is', u'the', u'horrendous', u'throttle', u'feel', u'given', u'by', u'the', u'drive-by-wire', u'system', u'.']
+	feel
+[u'This', u'is', u'somewhat', u'hard', u'to', u'explain', u',', u'.it', u'feels', u'like', u'the', u'accelerator', u'pedal', u'is', u'more', u'of', u'a', u'suggestion', u'to', u'the', u'engine', u'rather', u'than', u'a', u'direct', u'translation', u'of', u'what', u'my', u'right', u'foot', u'is', u'doing', u'.']
+	feel
+	acceleration
+	engine
+[u'The', u'worst', u'is', u'when', u'backing', u'out', u'of', u'a', u'parking', u'space', u'while', u'going', u'uphill', u'.']
+	room
+[u'I', u'would', u'push', u'the', u'pedal', u',', u'nothing', u'happens', u',', u'push', u'some', u'more', u',', u'nothing', u'happens', u'...', u'until', u'I', u'have', u'it', u'nearly', u'to', u'the', u'floor', u'and', u'the', u'car', u'suddenly', u'lurches', u'out', u'of', u'the', u'parking', u'space', u'.']
+	floor
+	room
+[u'Instead', u'of', u'an', u'even', u',', u'predictable', u'gradient', u'of', u'power', u',', u'its', u'either', u'all', u'or', u'nothing', u'.']
+	power
+[u'It', u'is', u'almost', u'as', u'if', u'there', u'is', u'a', u'to', u'delay', u'between', u'pedal', u'input', u'and', u'engine', u'response', u'.']
+	engine
+[u'It', u'is', u'most', u'noticeable', u'in', u'city', u'driving', u'in', u'situations', u'when', u'you', u'need', u'a', u'little', u'bit', u'of', u'power', u'instantly', u',', u'like', u'when', u'making', u'a', u'left', u'hand', u'turn', u'into', u'oncoming', u'traffic', u'.']
+	mpg
+	power
+[u'I', u'was', u'nearly', u'involved', u'in', u'an', u'accident', u'due', u'to', u'the', u'delay', u'.']
+[u'It', u"'s", u'only', u'about', u'a', u'second', u'or', u'two', u',', u'.when', u'someone', u'is', u'driving', u'toward', u'you', u'at', u',', u'second', u'makes', u'a', u'lot', u'of', u'difference', u'.']
+	ride
+[u'This', u'did', u'not', u'inspire', u'confidence', u'and', u'I', u'dreaded', u'any', u'time', u'I', u'had', u'to', u'take', u'this', u'car', u'near', u'a', u'city', u'.']
+	mpg
+[u'Once', u'on', u'the', u'highway', u',', u'the', u'throttle', u'problem', u'is', u'not', u'so', u'bad', u',', u'.it', u'is', u'still', u'hard', u'to', u'figure', u'out', u'how', u'much', u'to', u'depress', u'the', u'pedal', u'in', u'order', u'to', u'achieve', u'the', u'desired', u'results', u'.']
+	highway
+	issues
+[u'I', u'found', u'myself', u'over', u'accelerating', u',', u'or', u'accidentally', u'cutting', u'someone', u'off', u'because', u'of', u'the', u'vague', u'feel', u'to', u'the', u'accelerator', u'.']
+	acceleration
+	feel
+[u'At', u'its', u'best', u'the', u'throttle', u'is', u'vague', u',', u'annoying', u'and', u'unpredictable', u'.']
+[u'At', u'its', u'worst', u',', u'it', u'is', u'downright', u'dangerous', u'.']
+	safety
+[u'This', u'car', u'was', u'tolerable', u'as', u'a', u'rental', u',', u'.I', u'would', u'never', u'buy', u'one', u'.']
+[u'By', u'the', u'end', u'of', u'the', u'week', u'I', u'could', u"n't", u'wait', u'to', u'get', u'back', u'into', u'my', u'old', u'car', u'.']
+[u'Do', u"n't", u'buy', u'it', u'with', u'the', u'start/stop', u'system', u',', u'I', u'did', u"n't", u'do', u'my', u'homework', u'and', u'I', u'wish', u'I', u'had', u',', u'.unfortunately', u'I', u'knew', u'nothing', u'about', u'this', u'start/stop', u'crap', u'.']
+[u'When', u'you', u'test', u'drive', u'it', u',', u'I', u'did', u"n't", u'know', u',', u'.the', u'extra', u'battery', u'takes', u'a', u'while', u'to', u'warm', u'up', u'and', u'charge', u'then', u'the', u'fun', u'starts', u'.']
+	battery
+	fun
+[u'it', u'has', u'a', u'constant', u'miss', u'going', u'down', u'the', u'highway', u'like', u'something', u'tugging', u'on', u'the', u'engine', u'and', u'in', u'regular', u'traffic', u'the', u'transmission', u'is', u'clunky', u'.']
+	highway
+	engine
+	transmission
+[u'My', u'Altima', u'got', u'better', u'gas', u'mileage', u',', u'had', u'a', u'smooth', u'ride', u'and', u'it', u'did', u"n't", u'have', u'a', u'start/stop', u'system.The', u'salesman', u'told', u'me', u'nothing', u'about', u'this', u'awful', u'system', u',', u'they', u'know', u'it', u"'s", u'crap', u'.']
+	fuel
+	mileage
+	ride
+[u'So', u'test', u'drive', u'it', u'for', u'a', u'while', u'and', u'I', u'bet', u'you', u'wo', u"n't", u'buy', u'it', u'!']
+	ride
+[u'Since', u'its', u'just', u'the', u'of', u'us', u'interior', u'is', u'ok', u'.']
+	interior
+[u'Dash', u'easy', u'to', u'read', u',', u'front', u'end', u'hard', u'to', u'tell', u'where', u'that', u"'s", u'why', u'you', u'notice', u'other', u'cars', u'crunched', u'.']
+	dashboard
+[u'Mirrors', u'are', u'limited', u'have', u'to', u'double', u'check', u'.']
+	amenities
+[u'Road', u'noise', u'is', u'like', u'driving', u'with', u'windows', u'down', u'you', u'can', u'hear', u'everything', u'like', u'the', u'Kia', u'Rio', u'they', u'loaned', u'us', u'.']
+	ride
+	noise
+	windows
+[u'The', u'turbulence', u'of', u'mirrors', u'is', u'annoying', u'and', u'in', u'a', u'head', u'wind', u'drowns', u'out', u'radio', u'.']
+	amenities
+	radio
+[u'has', u'known', u'about', u'this', u'since', u'did', u'not', u'fix', u'till', u'now', u'on', u'all', u'models', u'.']
+[u'With', u'miles', u'already', u'have', u'loss', u'in', u'power', u'does', u'not', u'roll', u'over', u'hills', u'as', u'easy', u'.']
+	power
+[u'Dealer', u'say', u'everything', u'normal', u'we', u'only', u'notice', u'since', u'we`ve', u'driven', u'from', u'start', u'.']
+	ride
+[u'I`m', u'glad', u'they', u'got', u'rid', u'in', u'eco', u'system', u'nothing', u'like', u'sitting', u'in', u'degrees', u'and', u'it', u'shuts', u'off', u'takes', u'more', u'power', u'to', u'cool', u'down', u'.']
+	power
+[u'This', u'car', u'was', u'a', u'huge', u'upgrade', u'from', u'my', u'.']
+[u'I', u'love', u'how', u'quiet', u'it', u'is', u'and', u'it', u'handles', u'really', u'well', u'.']
+	noise
+[u'The', u'technology', u'is', u'great', u'and', u'I', u'have', u"n't", u'had', u'any', u'problems', u'with', u'connecting', u'to', u'local', u'radio', u'stations', u'or', u'XM', u'stations', u'.']
+	technology
+	issues
+	connectivity
+	radio
+[u'The', u'car', u'can', u'only', u'connect', u'via', u'bluetooth', u'to', u'phone', u'at', u'a', u'time', u',', u'which', u'can', u'be', u'inconvenient', u'.']
+	connectivity
+	cellphone
+[u'The', u'back', u'up', u'camera', u'is', u'nice', u'because', u'it', u"'s", u'kind', u'of', u'hard', u'to', u'look', u'out', u'the', u'back', u'window', u'.']
+	camera
+	windows
+[u'The', u'seats', u'are', u'really', u'nice', u'-', u'the', u'driver', u"'s", u'seat', u'has', u'lumbar', u'support', u'so', u'long', u'trips', u'do', u"n't", u'make', u'my', u'lower', u'back', u'sore', u'.']
+	seats
+[u'My', u'favorite', u'part', u'about', u'the', u'car', u'is', u'the', u'auto', u'stop/start', u'engine', u'-', u'it', u"'s", u'fun', u'to', u'come', u'up', u'to', u'a', u'red', u'light', u'and', u'see', u'if', u'the', u'car', u'will', u'auto', u'stop', u'!']
+	engine
+	fun
+	lights
+[u'I', u'love', u'this', u'car', u'.']
+[u'There', u'is', u'a', u'lot', u'of', u'technology', u'built', u'into', u'this', u'and', u'I', u'feel', u'comfortable', u'with', u'all', u'the', u'safety', u'features', u'.']
+	technology
+	feel
+	safety
+	features
+[u'I', u'have', u'the', u"''", u'wheels', u'and', u'all', u'the', u'options', u'offered', u'.']
+	tires
+	features
+[u'The', u'turbo', u'engine', u'pulls', u'hard', u',', u'even', u'at', u'highway', u'speeds', u'.']
+	engine
+	highway
+[u'My', u'wife', u'and', u'I', u'take', u'this', u'LTZ', u'on', u'trips', u',', u'transported', u'our', u'65in', u'flat', u'screen', u'perfectly', u',', u'hauled', u'groceries', u',', u'kept', u'teenagers', u'happy', u'with', u'the', u'wifi', u',', u'and.the', u'neighbors', u'think', u'it', u'looks', u'like', u'a', u'BMW', u'.']
+	screen
+	connectivity
+[u'Due', u'to', u'the', u'character', u'number', u'restriction', u',', u'I', u'had', u'to', u'erase', u'my', u'original', u'review', u'of', u'this', u'automobile', u'and', u'provide', u'an', u'update', u'after', u'leasing', u'this', u'car', u'for', u'a', u'year', u'...', u'.']
+[u'I', u'still', u'love', u'it', u'!']
+[u'I', u'have', u'NEVER', u'been', u'more', u'impressed', u'by', u'the', u'quality', u'of', u'an', u'automobile', u'than', u'I', u'have', u'with', u'this', u'LTZ2', u'.']
+	quality
+[u'For', u',', u'we', u'leased', u'products', u'and', u'then', u'decided', u'to', u'give', u'a', u'try', u'with', u'the', u'Mariner', u'Hybrid', u'.']
+[u'It', u'was', u'a', u'huge', u'mistake', u'.']
+[u'After', u'reading', u'reviews', u'on', u'Chevy', u'Malibu', u'and', u'seeing', u'overall', u'awards', u'that', u'has', u'been', u'given', u'over', u'past', u'few', u'years', u',', u'we', u'decided', u'to', u'give', u'more', u'try', u'.']
+[u'As', u'I', u'said', u',', u'we', u'have', u'had', u'this', u'car', u'for', u'over', u'a', u'year', u'now', u',', u'and', u'it', u'has', u'given', u'us', u'ZERO', u'problems', u'and', u'still', u'maintains', u'the', u'same', u'level', u'of', u'power', u',', u'quiet', u'ride', u',', u'and', u'comfort', u'as', u'the', u'day', u'we', u'picked', u'it', u'up', u'from', u'the', u'dealership', u'.']
+	issues
+	maintenance
+	power
+	noise
+	ride
+	comfort
+[u'The', u'controls', u'and', u'displays', u'are', u'well', u'thought', u'out', u'and', u'easily', u'accessed', u'.']
+	control
+	display
+[u'The', u'ride', u'is', u'not', u'only', u'comfortable', u'even', u'on', u'rough', u'roads', u',', u'.it', u'is', u'the', u'quietest', u'vehicle', u'that', u'I', u'have', u'ever', u'driven', u'!']
+	ride
+	noise
+[u'When', u'at', u'a', u'stop', u'light', u',', u'I', u'hardly', u'notice', u'the', u'engine', u'is', u'running', u'.']
+	lights
+	engine
+[u'Road', u'noise', u'is', u'at', u'a', u'minimum', u'making', u'for', u'a', u'very', u'quiet', u'and', u'comfortable', u'ride', u'.']
+	ride
+	noise
+[u'was', u'very', u'smart', u'to', u'develop', u'the', u'``', u'On', u'Star', u"''", u'system', u'which', u'has', u'proven', u'valuable', u'many', u'times', u'.']
+	onstar
+[u'We', u'get', u'a', u'report', u'of', u'diagnostics', u'and', u'reminders', u'for', u'service', u'by', u'email', u'.']
+	maintenance
+[u'I', u'like', u'the', u'fact', u'that', u'if', u'the', u'car', u'seems', u'to', u'be', u'having', u'a', u'problem', u',', u'I', u'can', u'call', u'OnStar', u'while', u'driving', u'and', u'have', u'them', u'run', u'a', u'full', u'diagnostic', u'.']
+	issues
+	onstar
+	ride
+[u'If', u'there', u'was', u'a', u'problem', u',', u'I', u'could', u'be', u'given', u'directions', u'and', u'phone', u'number', u'to', u'the', u'nearest', u'dealership', u'if', u'it', u'were', u'an', u'emergency', u'.']
+	issues
+	cellphone
+[u'We', u'rarely', u'drive', u'the', u'car', u'other', u'than', u'stop', u'and', u'go', u'city', u'driving', u',', u'so', u'I', u'had', u'to', u'estimate', u'the', u'combined', u'driving', u'MPG', u'.']
+	ride
+	mpg
+[u'With', u'ONLY', u'city', u'driving', u'in', u'the', u'south', u'heat', u',', u'we', u'average', u'17-19', u'MPG', u'.']
+	mpg
+[u'My', u'only', u'suggestion', u'to', u'would', u'be', u'to', u'give', u'a', u'little', u'more', u'room', u'for', u'back', u'seat', u'passengers', u'and', u'less', u'trunk', u'space', u'.']
+	room
+	seats
+	storage
+[u'The', u'trunk', u'is', u'huge', u'which', u'is', u'nice', u'if', u'you', u'are', u'shopping', u'and', u'have', u'lots', u'of', u'packages', u'to', u'cart', u'home', u'.']
+	storage
+[u'But', u',', u'you', u'are', u'sacrificing', u'leg', u'room', u'for', u'the', u'rear', u'seat', u'passengers', u'.']
+	room
+	seats
+[u'Though', u'it', u'is', u'OK', u'as', u'far', u'as', u'comfort', u',', u'it', u'would', u'be', u'nice', u'to', u'have', u'a', u'little', u'more', u'room', u'.']
+	comfort
+	room
+[u'Overall', u',', u'we', u'are', u'impressed', u'by', u'the', u'quality', u',', u'reliability', u'and', u'excellence', u'in', u'design', u'for', u'the', u'Chevy', u'Malibu', u'.']
+	quality
+	reliability
+	design
+	looks
+[u'I', u'would', u'highly', u'recommend', u'that', u'anyone', u'considering', u'a', u'mid-size', u'sedan', u'to', u'give', u'this', u'vehicle', u'a', u'test', u'drive', u'.']
+	ride
+[u'I', u"'m", u'sure', u'that', u'you', u'will', u'be', u'impressed', u'as', u'well', u'.']
+[u'Reviewing', u'this', u'from', u'the', u'perspective', u'of', u'an', u'RL', u'owner', u'may', u'be', u'a', u'bit', u'unfair', u',', u'but', u'...', u'the', u'dash', u'vents', u'are', u'barely', u'adjustable', u',', u'there', u'are', u'no', u'visible', u'rear', u'vents', u',', u'the', u'engine', u'(', u'like', u'just', u'about', u'any', u'other', u'cylinder', u'I', u'have', u'ever', u'driven', u')', u'sounds', u'like', u'a', u'lawn', u'mower', u'on', u'acceleration', u'though', u'it', u'IS', u'economical', u'-', u'32', u'MPG', u'on', u'highway', u'at', u'75-80', u'-', u'it', u'rides', u'like', u'a', u'truck', u'-', u'it', u'is', u'firm.you', u'feel', u'every', u'bump', u'-', u'very', u'poor', u'insulation', u'from', u'road', u'surfaces', u'and', u'imperfections', u'-', u'the', u'``', u'switch', u'blade', u"''", u'key', u'fob', u'is', u'annoying', u'-', u'if', u'you', u'do', u"n't", u'keep', u'folding', u'it', u'up', u'it', u'puts', u'holes', u'in', u'pants', u'pockets', u',', u'and', u'the', u'access', u'to', u'the', u'vehicle', u'information', u'system', u'is', u'accomplished', u'through', u'switches', u'on', u'the', u'left', u'stalk', u'on', u'the', u'steering', u'column', u'-', u'requires', u'too', u'much', u'concentration', u'and', u'much', u'better', u'placed', u'on', u'the', u'dash', u'somewhere', u'-', u'huge', u'screen', u'on', u'the', u'dash', u'does', u'nothing', u'without', u'navigation', u'other', u'than', u'give', u'you', u'radio', u'information', u'.']
+	dashboard
+	engine
+	ride
+	acceleration
+	cost
+	mpg
+	highway
+	feel
+	locks
+	steering
+	screen
+	navigation
+	radio
+[u'Very', u'disappointing', u'car', u'after', u'all', u'the', u'rave', u'reviews', u'I', u'had', u'read', u'about', u'the', u'``', u'new', u"''", u'-', u'can', u'not', u'even', u'hold', u'a', u'candle', u'to', u'our', u'previous', u'2008', u',', u'let', u'lone', u'the', u'model', u'.']
+[u'This', u'was', u'my', u'car', u'right', u'out', u'of', u'college', u'.']
+[u'AND', u'I', u'LOVE', u'THIS', u'CAR', u'.']
+[u'I', u'had', u'driven', u'a', u'malibu', u'classic', u'with', u'a', u'engine', u'for', u'past', u'6', u'years', u'and', u'got', u'to', u'say', u'engine', u'was', u'a', u'pretty', u'good', u'upgrade', u'in', u'performance', u'.']
+	ride
+	engine
+	performance
+[u'I', u'would', u'admit', u'the', u'start-stop', u'tech', u'took', u'a', u'while', u'to', u'get', u'used', u'to', u',', u'.with', u'the', u'upgrades', u'to', u'the', u'starter', u'and', u'engine', u'gaskets', u'you', u'will', u'be', u'safe', u'from', u'the', u'constant', u'on', u'and', u'off', u'feature', u'.']
+	technology
+	engine
+	features
+[u'I', u'use', u'this', u'car', u'everyday', u'for', u'work', u'and', u'look', u'to', u'keep', u'it', u'for', u'some', u'time', u'.']
+[u'I', u"'ve", u'had', u'the', u'car', u'for', u'year', u'now', u'.']
+[u'I', u"'ve", u'never', u'owned', u'a', u'car', u'that', u'had', u'an', u'MSRP', u'of', u'over', u'25k', u',', u'so', u'I', u'only', u'have', u'so', u'much', u'to', u'compare', u'it', u'to', u'.']
+[u'Overall', u'I', u'have', u'greatly', u'enjoyed', u'owning', u'this', u'car', u'.']
+[u'For', u'the', u'bad', u':', u'In', u'that', u'time', u',', u'I', u'have', u'had', u'it', u'in', u'the', u'dealership', u'for', u'issues', u'times', u'.']
+	issues
+[u'The', u'was', u'the', u'airbag', u'module', u'gave', u'up', u'the', u'ghost', u'(', u'it', u'just', u'popped', u'the', u'warning', u'light', u',', u'nothing', u'bad', u'occurred', u')', u'.']
+	safety
+	lights
+[u'time', u'was', u'for', u'an', u'OnStar', u'module', u'recall', u'.']
+	onstar
+[u'time', u'was', u'for', u'the', u'hands-free', u'calling', u'not', u'working', u'.']
+[u'Turned', u'out', u'the', u'hands-free', u'calling', u'not', u'working', u'was', u'because', u'they', u'put', u'in', u'the', u'wrong', u'OnStar', u'module', u'during', u'the', u'recall', u'appointment', u'.']
+	onstar
+[u'All', u'of', u'the', u'work', u'of', u'course', u'was', u'done', u'for', u'free', u'as', u'it', u'was', u'under', u'warranty', u'.']
+	warranty
+[u'Each', u'time', u'they', u'arranged', u'a', u'loaner', u'car', u'that', u'was', u'in', u'impeccable', u'condition', u'.']
+[u'Each', u'time', u'the', u'dealership', u'was', u'friendly', u'and', u'polite', u'.']
+[u'For', u'the', u'good', u':', u'I', u'have', u'found', u'this', u'car', u'to', u'be', u'quite', u'comfortable', u'.']
+[u'It', u'is', u'by', u'no', u'means', u'a', u'luxary', u'sedan', u',', u'.six', u'hour', u'drives', u'in', u'it', u'did', u"n't", u'overly', u'fatigue', u'me', u'or', u'expose', u'uncomfortable', u'parts', u'of', u'the', u'seats', u'.']
+	ride
+	comfort
+	seats
+[u'It', u'handles', u'quite', u'competently', u'under', u'all', u'the', u'weather', u'conditions', u'I', u"'ve", u'had', u'it', u'in', u'(', u'hot', u',', u'cold', u',', u'rain', u',', u'and', u'wintery', u'mix', u')', u'and', u'has', u'always', u'made', u'me', u'feel', u'safe', u'.']
+	feel
+[u'It', u'has', u'plenty', u'of', u'power', u'to', u'get', u'up', u'to', u'highway', u'speed', u'by', u'end', u'of', u'on', u'ramps', u'.']
+	power
+	highway
+[u'I', u'was', u'originally', u'skeptical', u'of', u'the', u'electric', u'power', u'steering.have', u'come', u'to', u'enjoy', u'how', u'precise', u'it', u'seems', u'to', u'be', u'.']
+	power
+[u'I', u'personally', u'like', u'the', u'stop-start', u'tech', u',', u'and', u'it', u'does', u'seem', u'to', u'legitimately', u'boost', u'MGP', u'.']
+	technology
+[u'Of', u'course', u',', u'it', u'remains', u'to', u'be', u'seen', u'what', u'the', u'extra', u'starts', u'does', u'in', u'terms', u'of', u'engine', u'wear', u'.']
+	engine
+[u'I', u'like', u'the', u'styling', u'in', u'general', u',', u'and', u'I', u'like', u'the', u'accent', u'lighting', u'and', u'size', u'of', u'the', u'buttons', u'on', u'the', u'various', u'dash', u'controls', u'(', u'for', u'when', u'wearing', u'gloves', u')', u'.']
+	looks
+	lights
+	size
+	buttons
+	dashboard
+	control
+	glovebox
+[u'I', u'especially', u'like', u'that', u'it', u'has', u'power', u'seat', u'high', u'adjustment', u'on', u'the', u'base', u'model', u'.']
+	power
+	seats
+[u'Annoyances', u':', u'in', u'the', u'base', u'model', u',', u'bluetooth', u'does', u'phone', u'calls.does', u"n't", u'support', u'music', u'streaming', u'from', u'your', u'phone', u'.']
+	bluetooth
+	cellphone
+[u'This', u'seems', u'to', u'be', u'purely', u'a', u'software', u'roadblock', u'put', u'in', u'place', u'to', u'try', u'to', u'sell', u'the', u'higher', u'trim', u'levels', u'.']
+	computer
+[u'The', u'times', u'the', u'start-stop', u'does', u'NOT', u'kick', u'in', u'seem', u'to', u'be', u'a', u'bit', u'random', u'sometimes', u'.']
+[u'I', u'know', u'it', u'is', u'based', u'on', u'battery', u'levels', u'and', u'accessories', u'in', u'use', u'and', u'whatnot', u',', u'.I', u'see', u'no', u'reason', u'why', u'after', u'driving', u'minutes', u'highway', u'time', u'in', u'mild', u'weather', u',', u'with', u'minimal', u'accessory', u'and', u'HVAC', u'use', u',', u'why', u'it', u'would', u'not', u'stop', u'the', u'engine', u'when', u'you', u'pull', u'up', u'to', u'a', u'stoplight', u'at', u'the', u'bottom', u'off', u'your', u'off-ramp', u',', u'when', u'you', u'are', u'not', u'doing', u'stop-and-go', u'traffic', u'.']
+	battery
+	amenities
+	ride
+	highway
+	engine
+[u'Also', u',', u'while', u'the', u'transmission', u'is', u'largely', u'competent', u',', u'it', u'does', u'not', u'seem', u'as', u'smooth', u'or', u'as', u'intelligent', u'as', u'comparable', u'models', u'that', u'my', u'friends', u'have', u'.']
+	transmission
+[u'In', u'the', u'sea', u'of', u'compact', u'sedans', u',', u'the', u'Dart', u'GT', u'stands', u'out', u'.']
+[u'It', u"'s", u'very', u'nice', u'to', u'look', u'at', u',', u'definitely', u'not', u'your', u'cookie-cutter', u'import', u'.']
+[u'I', u'honestly', u'do', u"n't", u'understand', u'the', u'criticism', u'of', u'the', u'car', u'in', u'general', u'.']
+[u'The', u'car', u'never', u'feels', u'under', u'powered', u',', u'the', u'shifts', u'are', u'crisp', u'and', u'positive', u'.']
+	feel
+	power
+[u'The', u'handling', u'and', u'brakes', u'are', u'very', u'good', u'for', u'a', u'front', u'wheel', u'drive', u'car', u'.']
+	handling
+	brakes
+	tires
+	ride
+[u'My', u'only', u'complaint', u'was', u'the', u'tires', u'which', u'were', u'overly', u'harsh', u'and', u'really', u'a', u'poor', u'match', u'for', u'this', u'chassis', u'.']
+	tires
+	body
+[u'Once', u'replaced', u',', u'you', u'now', u'have', u'a', u'firm', u'riding', u',', u'quite', u'and', u'comfortable', u'car', u',', u'.not', u'harsh', u'or', u'jarring', u'.']
+[u'What', u'you', u'have', u'is', u'a', u'quick', u',', u'sharp', u'and', u'fun', u'drive', u'that', u'is', u'inexpensive', u'to', u'own', u'and', u'operate', u'.']
+	fun
+	ride
+[u'Good', u'value', u'for', u'money', u'.']
+	cost
+[u'Got', u'a', u'chance', u'to', u'rent', u'one', u'of', u'these', u',', u'and', u'since', u'my', u'daughter', u'will', u'be', u'looking', u'for', u'something', u'used', u'soonish', u'for', u'a', u'car', u',', u'I', u'thought', u'why', u'not', u'try', u'it', u'?']
+[u'Nut', u'shell', u'summary', u'-some', u'stand', u'out', u'features', u',', u'.would', u'not', u'buy', u'or', u'rent', u'again', u'.']
+	features
+[u'Cars', u'should', u'be', u'made', u'to', u'be', u'driven', u'as', u'job', u',', u'not', u'just', u'looked', u'at', u'or', u'sat', u'in', u'.']
+	ride
+[u'The', u'good', u'?']
+[u'Appearance', u'was', u'nice', u'in', u'my', u'eyes', u'.']
+	looks
+[u'And', u',', u'the', u'interior', u'was', u'not', u'low', u'rent', u'by', u'any', u'means', u'.']
+	interior
+[u'Soft', u'touch', u'material', u'and', u'mostly', u'decent', u'switch', u'gear', u'feel', u'?']
+	materials
+	gears
+	feel
+[u'Check', u'.']
+[u'Logical', u'control', u'layout', u'?']
+	control
+[u'Check', u'.']
+[u'Seats', u'were', u'okay', u',', u'.not', u'great', u'.']
+	seats
+[u'Still', u',', u'given', u'the', u'price', u'point', u'?']
+	cost
+[u'Color', u'me', u'impressed', u'.']
+[u'A', u'few', u'quirks', u'to', u'note', u'here', u'which', u'kept', u'the', u'rating', u'being', u'higher', u'in', u'these', u'areas', u'.']
+[u')', u'Front', u'seats', u'needs', u'to', u'go', u'lower', u'.']
+	seats
+[u'While', u'I', u'can', u'fit', u'...']
+[u'I', u'have', u'to', u'recline', u'the', u'seat', u'and', u'doing', u'so', u'blocks', u'the', u'speedometer', u'.']
+	seats
+	gauges
+[u'So', u'I', u'can', u'either', u'fit', u'comfortably', u',', u'or', u'not', u'see', u'my', u'speedometer', u'between', u'and', u'maybe', u'around', u'.']
+	gauges
+[u'Tilting/telescoping', u'wheel', u'hopefully', u'is', u'an', u'option', u',', u'so', u'check', u'if', u'you', u'are', u'a', u'all', u'torso', u'kind', u'of', u'guy', u'like', u'me', u'.']
+	tires
+	features
+[u')', u'Glare', u'off', u'gauge', u'panel', u'.']
+	gauges
+[u'Given', u'the', u'rest', u'of', u'the', u'interior', u'quality', u',', u'the', u'lack', u'of', u'a', u'(', u'more', u'?', u')']
+	interior
+	quality
+[u'reduced', u'glare', u'gauge', u'cluster', u'covering', u'seems', u'a', u'noticeable', u'omission', u'.']
+	gauges
+[u'Not', u"'ca", u"n't", u'read', u'it', u"'", u'bad', u',', u'.still', u'quite', u'annoying', u'when', u'the', u'light', u'glare', u'hits', u'it', u'.']
+	lights
+[u'And', u',', u'the', u'mostly', u'not', u'so', u'good', u'.']
+[u'With', u'the', u'exception', u'of', u'steering', u',', u'which', u'really', u'does', u'hit', u'the', u'mark', u'for', u'this', u'sort', u'of', u'car', u',', u'driving', u'dynamics', u'were', u'pretty', u'bad', u'.']
+	steering
+	ride
+[u'So', u'the', u'steering', u'.']
+	steering
+[u'Somewhat', u'lose', u'on', u'center.with', u'good', u',', u'.not', u'too', u'much', u'road', u'feel', u'.']
+	ride
+	feel
+[u'Tracks', u'well', u',', u'not', u'too', u'much', u'effort', u'at', u'any', u'speed', u'.']
+[u'Pretty', u'much', u'exactly', u'what', u'the', u'doctor', u'order', u'for', u'driver', u'sort', u'of', u'car', u'and', u'maybe', u'more', u'.']
+[u'However', u',', u'engine', u'was', u'buzzy', u'and', u'lacked', u'any', u'ommph', u'over', u'for', u'first', u'few', u'days', u'Had', u'to', u'hammer', u'it', u'to', u'even', u'get', u'up', u'to', u'passing', u'speed', u'in', u'any', u'reasonable', u'time', u'.']
+	engine
+[u'After', u'few', u'days', u'the', u'TCU', u'and', u'engine', u'eventually', u"'learned", u"'", u'that', u'when', u'I', u'applied', u'gas', u'I', u'truly', u'madly', u'deeply', u'did', u'want', u'it', u'at', u'least', u'_try_', u'to', u'move', u'faster', u'than', u'dodering', u'great', u'grandma', u'.']
+	engine
+	fuel
+[u'Still', u'even', u'then', u',', u'it', u'remained', u'rather', u'poor', u',', u'.at', u'least', u'not', u'almost', u'dangerously', u'so', u',', u'as', u'was', u'my', u'experience', u'first', u'few', u'days', u'with', u'it', u'.']
+[u'Engine', u'noise', u'and', u'vibration', u'were', u'a', u'constant', u'unwelcome', u'companion', u',', u'especially', u'at', u'idle', u'.']
+	engine
+	noise
+	feel
+[u'Even', u'the', u'dash', u'liner', u'would', u'visibly', u'vibrate', u'at', u'times', u'.']
+	dashboard
+	feel
+[u'If', u'had', u'not', u'put', u'so', u'much', u'effort', u'into', u'the', u'interior', u'it', u'would', u'have', u'been', u'buzzing', u'like', u'my', u'old', u"'78", u'did', u'when', u'it', u'was', u'cold', u'.']
+	interior
+[u'This', u'is', u'lowest', u'level', u'of', u'refinement', u'of', u'any', u'other', u'car', u'I', u'have', u'driven', u'or', u'ridden', u'in', u'in', u'last', u'decade', u',', u'or', u'possibly', u',', u'which', u'is', u'quite', u'a', u'few', u'cars', u'from', u'all', u'price', u'points', u'.']
+	ride
+	cost
+[u'Brakes', u'may', u'have', u'had', u'a', u'warping', u'issue', u'on', u'this', u'car', u'so', u'read', u'as', u'such', u',', u'and', u'not', u'as', u'directly', u'critical', u'of', u'the', u'car', u'model', u'.']
+	brakes
+	issues
+[u'The', u'rears', u'gave', u'a', u'distinctive', u"'whrrr", u'whhrr', u"'", u'when', u'backing', u'down', u'my', u'driveway', u'.']
+[u'I', u'had', u'to', u'stop', u'quickly', u'once', u',', u'and', u'they', u'actually', u'clunked', u'and', u'the', u'car', u'lurched', u'a', u'bit', u'while', u'stopping', u'fast', u'.']
+[u'I', u'assume', u'this', u'is', u'not', u'normal', u'for', u'a', u',', u'and', u'did', u'let', u'the', u'rental', u'agency', u'know', u'.']
+[u'I', u'would', u'however', u'worry', u'about', u'a', u'car', u'that', u'did', u'have', u'brake', u'issues', u'as', u'early', u'as', u'this', u',', u'even', u'for', u'a', u'rental', u'.']
+	brakes
+	issues
+[u'My', u'adivce', u'?']
+[u'Try', u'some', u'emergency', u'stops', u'and', u'braking', u'while', u'backing', u'down', u'a', u'hill', u'to', u'be', u'sure', u'if', u'you', u'are', u'test', u'driving', u'one', u'.']
+	brakes
+	ride
+[u'Suspension', u'.']
+	suspension
+[u'On', u'smooth', u'even', u'pavement', u'it', u'was', u'fine', u',', u'and', u'even', u'a', u'good', u'ride', u'.']
+	ride
+[u'However', u',', u'anything', u'else', u'gave', u'varying', u'degrees', u'of', u'jittery', u'and', u'busy', u'.']
+[u'Absolutely', u'no', u'confidence', u'in', u'trying', u'anything', u'beyond', u"'20", u'%', u'pushing', u'it', u"'", u'in', u'this', u'car', u'.']
+[u'Given', u'the', u'brakes', u',', u'and', u'lack', u'of', u'oomph', u',', u'that', u'was', u'probably', u'for', u'the', u'better', u'.']
+	brakes
+[u'Still', u'a', u'suspension', u'should', u'not', u'communicate', u'that', u'it', u'wants', u'to', u'take', u'the', u'car', u'in', u'all', u'sorts', u'of', u'directions', u'you', u'are', u'not', u'steering', u'in', u'on', u'anything.good', u'pavement', u'.']
+	suspension
+	steering
+[u'If', u'you', u'live', u'in', u'an', u'area', u'of', u'crappy', u'roads', u'like', u'I', u'do', u',', u'make', u'sure', u'to', u'try', u'it', u'out', u'and', u'see', u'for', u'yourself', u'if', u'it', u'suits', u'.']
+	ride
+[u'Fairly', u'obviously', u',', u'I', u'have', u'no', u'idea', u'if', u'it', u'corners', u'fairly', u'flat', u'/', u'has', u'body', u'roll', u',', u'was', u'not', u'even', u'tempted', u'to', u'try', u'it', u'.']
+	body
+[u'In', u'short', u'?']
+[u',', u',', u',', u',', u',', u',', u',', u'...', u'All', u'seem', u'to', u'have', u'better', u'cars', u'in', u'this', u'price', u'range/category', u'from', u'a', u'driving', u'perspective', u'.']
+	cost
+[u'I', u'recently', u'purchased', u'my', u'Dart', u'GT', u'as', u'a', u'replacement', u'for', u'my', u'old', u'commuter', u',', u'a', u'Mazda6', u'.']
+[u'So', u'far', u',', u'I', u'have', u'not', u'regretted', u'it', u'in', u'the', u'slightest', u';', u'it', u'is', u'an', u'upgrade', u'in', u'almost', u'every', u'way', u'.']
+[u'As', u'a', u"6'7", u"''", u',', u'man', u'coming', u'from', u'a', u'mid-size', u'sedan', u',', u'the', u'switch', u'to', u'a', u'compact', u'had', u'me', u'worried', u'.']
+[u'I', u'am', u'the', u'kind', u'of', u'person', u'to', u'do', u'as', u'much', u'research', u'as', u'possible', u'before', u'a', u'purchase', u'like', u'this', u',', u'.for', u'my', u'particular', u'circumstances', u'there', u'is', u'really', u'no', u'alternative', u'to', u'actually', u'going', u'to', u'the', u'dealership', u'and', u'test', u'driving', u'the', u'car', u'.']
+	ride
+[u'I', u'am', u'pleased', u'to', u'report', u'that', u'this', u'is', u'the', u'first', u'sedan', u'I', u'have', u'ever', u'been', u'able', u'to', u'sit', u'completely', u'upright', u'in', u',', u'without', u'hitting', u'my', u'head', u'on', u'anything', u'.']
+[u'My', u'particular', u'vehicle', u'was', u'purchased', u'in', u'2016', u',', u'.as', u'a', u'model', u'I', u'had', u'to', u'take', u'what', u'I', u'could', u'get', u'since', u'I', u'was', u'shopping', u'for', u'a', u'manual', u',', u'and', u'this', u'car', u'just', u'happened', u'to', u'have', u'a', u'sunroof', u'.']
+	roof
+[u'That', u'only', u'adds', u'to', u'my', u'headroom', u',', u'and', u'the', u'cut-out', u'from', u'the', u'room', u'(', u'even', u'with', u'the', u'sunroof', u'closed', u')', u'adds', u'an', u'extra', u'inch', u'or', u'for', u'those', u"'even-extra", u"'", u'extra', u'headroom', u'needing', u'people', u'.']
+	room
+	roof
+[u'As', u'far', u'as', u'legroom', u',', u'I', u'positioned', u'my', u'chair', u'in', u'a', u'comfortable', u'driving', u'position', u',', u'then', u'moved', u'to', u'the', u'backseat', u',', u'and', u'was', u'able', u'to', u'fit', u'behind', u'myself', u'!']
+	room
+	seats
+[u'In', u'a', u'Compact', u'Sedan', u'!']
+[u'If', u'you', u'are', u'a', u'large', u'person', u',', u'you', u'will', u'understand', u'how', u'impressive', u'this', u'is', u'.']
+[u'Headroom', u'is', u'a', u'bit', u'tight', u'in', u'the', u'rear', u'seats', u',', u'.the', u'legroom', u'truely', u'impressed', u'me', u'.']
+	room
+	seats
+[u'My', u'personal', u'needs', u'aside', u',', u'this', u'is', u'a', u'fantastic', u'car', u'.']
+[u'The', u'engine', u'in', u'the', u'GT', u'and', u'SXT', u'is', u'extremely', u'competetive', u'for', u'this', u'size', u'car', u',', u'and', u'with', u'many', u'other', u'larger', u'cars', u'as', u'well', u'.']
+	engine
+	size
+[u'It', u'is', u'a', u'somewhat', u'heavy', u'compact', u',', u'.the', u'GT', u'holds', u'its', u'weight', u'well', u'.']
+[u'It', u'corners', u'-very-', u'flat', u',', u'and', u'can', u'pull', u'out', u'of', u'corners', u'with', u'almost', u'no', u'back', u'end', u'feedback', u'.']
+[u'If', u'you', u"'re", u'in', u'for', u'a', u'more', u'leasurely', u'roll', u'down', u'the', u'country', u'roads', u',', u'the', u'GT', u'suspension', u'may', u'be', u'a', u'little', u'more', u'stiff', u'than', u'people', u'are', u'used', u'to', u',', u'.it', u'is', u'hardly', u'the', u'toughest', u'I', u"'ve", u'driven', u'.']
+	suspension
+[u'The', u'clutch', u'is', u'smooth', u'and', u'responsive', u',', u'and', u'if', u'you', u'can', u'aptly', u'shift', u'inside', u'the', u'power', u'band', u',', u'it', u'will', u'have', u'no', u'trouble', u'finding', u'and', u'keeping', u'revs', u'with', u'you', u'.']
+	transmission
+	responsiveness
+	power
+[u'In', u'my', u'opinion', u',', u'the', u'interior', u'is', u'the', u'best', u'in', u'the', u'class', u'.']
+	interior
+[u'For', u'under', u'20k', u',', u'You', u'have', u'leather', u'everywhere', u'.']
+	materials
+[u'Seats', u',', u'Steering', u'wheel', u',', u',', u'everything', u'is', u'well', u'built', u'and', u'has', u'no', u'wiggle', u'or', u'give', u'.']
+	seats
+	steering
+	tires
+[u'The', u'doors', u'close', u'solidly', u'and', u'you', u'feel', u'extremely', u'safe', u'inside', u'the', u'cabin', u'.']
+	feel
+	interior
+[u'Visibility', u'is', u'high', u',', u'even', u'from', u'my', u'vantage', u'point', u'at', u'the', u'ceiling', u',', u'and', u'backing', u'up', u'is', u'a', u'smooth', u'breeze', u'(', u'even', u'without', u'the', u'backup', u'camera', u')', u'.']
+	visibility
+	roof
+	sensors
+	camera
+[u'I', u'feel', u'that', u'interiors', u'are', u'an', u'extremely', u'personal', u'opinion', u'kind', u'of', u'thing', u',', u'.that', u'is', u'mine', u'.']
+	feel
+	interior
+[u'After', u'a', u'lot', u'of', u'research', u'with', u'engines', u',', u'and', u'considering', u'I', u'was', u'restricting', u'myself', u'to', u'a', u'manual', u'transmission', u',', u'I', u'test', u'drove', u'a', u',', u'Chevy', u'Cruze', u',', u'and', u'this', u'Dodge', u'Dart', u'.']
+	engine
+	transmission
+	ride
+[u'There', u'was', u'little', u'feeling', u'of', u'competition', u'.']
+	feel
+[u'I', u'have', u'been', u'through', u'many', u'brands', u'of', u'cars', u'in', u'my', u'(', u'relatively', u'short', u')', u'life', u'.']
+[u'This', u'car', u'is', u'so', u'good', u'that', u'I', u'feel', u'like', u'I', u'may', u'turn', u'into', u'a', u'man', u'.']
+	feel
+[u'thing', u'you', u'need', u'to', u'keep', u'in', u'mind', u',', u'I', u'have', u'bought', u'the', u'manual', u'transmission', u'so', u'it', u'is', u'sportier', u'.']
+	transmission
+[u'However', u'the', u'could', u'have', u'a', u'little', u'more', u'kick', u'.']
+[u'The', u'voice', u'control', u'is', u'poor', u',', u'as', u'i', u'had', u'to', u'take', u'it', u'back', u'the', u'day', u'after', u'I', u'bought', u'it', u'(', u'guess', u'anyone', u'can', u'get', u'a', u'faulty', u'unit', u'though', u')', u'to', u'replace', u'the', u'uconnect', u'.']
+	control
+	onstar
+[u'The', u'car', u'drives', u'great', u'and', u'fuel', u'efficiency', u'is', u'great', u'on', u'the', u'highway.could', u'need', u'improvement', u'on', u'city', u'streets', u'(', u'mpg', u'combined', u'for', u'me', u',', u'hwy', u',', u'24-25', u'city', u')', u'.']
+	ride
+	fuel
+	mpg
+[u'Pros', u':', u'-', u'Great', u'car', u'for', u'the', u'money', u'-', u'Great', u'Safety', u'features', u'-', u'Great', u'factory', u'speakers', u'-', u'nice', u'adjustability', u'of', u'seats', u'-', u'Awesome', u'cargo', u'space', u'-', u'Good', u'on', u'hwy', u'gas', u'Cons', u':', u'-', u'somewhat', u'slow', u'takeoff', u'-', u'Uconnect', u'issues', u'-', u'instrumentation', u'can', u'be', u'slightly', u'confusing', u'I', u'just', u'bought', u'this', u'car', u',', u'so', u'the', u'review', u'may', u'still', u'get', u'changed', u'.']
+	safety
+	features
+	speakers
+	seats
+	storage
+	room
+	mpg
+	fuel
+	onstar
+	issues
+	gauges
+[u'When', u'I', u'bought', u'this', u'car', u',', u'it', u'seemed', u'nice', u'.']
+[u'Traded', u'in', u'a', u'Dodge', u'Charger', u'because', u'I', u'wanted', u'better', u'gas', u'mileage', u'and', u'safer', u'winter', u'driving', u'(', u'it', u'was', u'rear-wheel', u'drive', u'-', u'in', u'CO', u')', u'.']
+	fuel
+	mileage
+	ride
+[u'I', u'agree', u'with', u'the', u'review', u'where', u'take-off', u'is', u'sluggish', u'and', u'gears', u'are', u'too', u'many', u'-', u'like', u'it', u'ca', u"n't", u'decide', u'which', u'gear', u'to', u'be', u'in', u'and', u'the', u'drive', u'can', u'be', u'choppy', u'.']
+	performance
+	gears
+	ride
+[u'I', u'complained', u'to', u'the', u'dealer', u'about', u'the', u'poor', u'take-off', u'acceleration', u'and', u'he', u'said', u'it', u'is', u'to', u'save', u'gas', u'.']
+	acceleration
+	fuel
+[u'It', u"'s", u'like', u'the', u'car', u'is', u'telling', u'when', u'I', u'should', u'go', u'.']
+[u'Very', u'frustrating', u'.']
+[u'Once', u'it', u'gets', u'going', u'over', u'35-40', u'mph', u',', u'it', u'does', u'do', u'very', u'nicely', u',', u'handles', u'nice', u',', u'and', u'is', u'relatively', u'quiet', u'for', u'a', u'small', u'car', u'.']
+	noise
+[u'The', u'turbo', u'is', u'great', u'.']
+	engine
+[u'The', u'air', u'conditioner', u'has', u'a', u'cheapy', u'fan', u'sound', u'that', u'is', u'inherent', u'in', u'Darts', u'per', u'the', u'dealer', u',', u'and', u'the', u'brakes', u'are', u'always', u'squealing', u',', u'which', u'dealers', u'say', u'is', u'due', u'to', u'the', u'metal', u'they', u'are', u'now', u'using', u',', u'.']
+	ac
+	brakes
+	materials
+[u'``', u'it', u'helps', u'it', u'stop', u'on', u'a', u'dime', u"''", u'.']
+[u'I', u'just', u'have', u'to', u'``', u'keep', u'the', u'brake', u'dust', u'power-washed', u'off', u"''", u',', u'which', u'I', u'would', u'have', u'to', u'do', u'every', u'other', u'day', u'.']
+	brakes
+[u'They', u'say', u'it', u"'s", u'on', u'all', u'cars', u'after', u'2005', u',', u'.I', u'do', u"n't", u'hear', u'other', u'people', u"'s", u'car', u"'s", u'brakes', u'squealing', u'as', u'I', u'drive', u'.']
+	brakes
+	ride
+[u'The', u'Aero', u'is', u'rated', u'at', u'mpg', u'city', u'and', u'I', u'get', u'about', u'.']
+	mpg
+[u'Not', u'the', u'gas', u'savings', u'I', u'was', u'expecting', u'.']
+	fuel
+[u'As', u'I', u'drive', u'stop-and-go', u'a', u'lot', u',', u'this', u'car', u'is', u'VERY', u'frustrating', u'to', u'drive', u'-', u'I', u'am', u'constantly', u'telling', u'it', u'to', u'``', u'GO', u'!', u"''"]
+	ride
+[u'when', u'I', u'give', u'it', u'gas', u'from', u'a', u'stop', u'and', u'hills', u'are', u'worst', u'.']
+	fuel
+[u'But', u',', u'on', u'the', u'open', u'road', u',', u'I', u'did', u'get', u'avg', u'mpg', u'!']
+	ride
+	mpg
+[u'But', u',', u'I', u'am', u'on', u'my', u'3rd', u'check', u'engine', u'light', u'since', u'miles', u'(', u'car', u'now', u'has', u')', u'and', u'they', u'ca', u"n't", u'find', u'the', u'problem', u'because', u'of', u'how', u'complicated', u'they', u"'ve", u'made', u'everything', u'.']
+	engine
+	lights
+	issues
+[u'I', u'would', u'run', u'this', u'car', u'off', u'a', u'cliff', u'if', u'I', u'could', u'.']
+[u'I', u'have', u'had', u'for', u'years', u'since', u'I', u'worked', u'for', u'at', u'time.I', u"'m", u'done', u'now', u'.']
+[u'This', u'is', u'NOT', u'a', u'worthy', u'replacement', u'for', u'the', u'and', u'I', u'wish', u'I', u'had', u'my', u'Charger', u'back', u'!']
+[u'I', u'am', u'writing', u'this', u'review', u'after', u'owning', u'the', u'car', u'for', u'6', u'months', u'.']
+[u'Also', u'just', u'found', u'out', u'is', u'discontinuing', u'this', u'car', u'.']
+[u'Which', u'to', u'me', u',', u'is', u'very', u'sad', u'.']
+[u'I', u'bought', u'this', u'car', u'as', u'a', u'daily', u'driver', u'(', u'parking', u'my', u'Challenger', u'RT', u')', u'.']
+[u'I', u'was', u'amazed', u'by', u'the', u'features', u',', u'feel', u',', u'tech', u',', u'acceleration', u',', u'looks', u'...', u'pretty', u'much', u'everything', u'about', u'this', u'car', u'.']
+	features
+	feel
+	technology
+	acceleration
+[u'I', u'have', u'NO', u'idea', u'why', u'it', u'is', u'getting', u'such', u'a', u'bad', u'wrap', u'.']
+[u'I', u'get', u'compliments', u'on', u'it', u'all', u'the', u'time', u'(', u'just', u'as', u'much', u'as', u'my', u')', u'.']
+[u'I', u'am', u'a', u'6ft', u'1', u'guy', u',', u'and', u'they', u'seats', u'are', u'very', u'comfortable', u'to', u'me', u'.']
+	seats
+[u'I', u'also', u'have', u'children', u',', u'and', u'they', u'fit', u'in', u'the', u'car', u'fine', u'.']
+[u'Trunk', u'space', u'is', u'awesome', u'.']
+	storage
+	room
+[u'I', u'have', u'the', u'2.4L', u'SXT', u'with', u'everything', u'minus', u'the', u'leather', u'.']
+	materials
+[u'Black', u'18inch', u'alloys', u',', u'and', u'the', u'car', u'is', u'Dark', u'Grey', u'.']
+	materials
+[u'I', u'am', u'writing', u'this', u'on', u'behalf', u'of', u'my', u'son', u'who', u'just', u'bought', u'a', u'new', u'.']
+[u'He', u'has', u'owned', u'it', u'for', u'months', u'and', u'it', u'has', u'been', u'in', u'Dodge', u'dealerships', u'service', u'departments', u'for', u'approximately', u'of', u'months', u'.']
+	maintenance
+[u'The', u'engine', u'will', u'randomly', u'shut', u'off', u'while', u'in', u'motion', u'.']
+	engine
+[u'I', u'could', u'not', u'believe', u'this', u'until', u'I', u'googled', u'the', u'problem', u'and', u'read', u'several', u'of', u'the', u'online', u'blogs', u'.']
+	issues
+[u'There', u'are', u'numerous', u'owners', u'who', u"'s", u'engine', u'just', u'shuts', u'off', u'.']
+	engine
+[u'When', u'the', u'car', u'gets', u'low', u'on', u'oil', u'the', u'engine', u'shuts', u'off', u',', u'except', u'the', u'engine', u'has', u'plenty', u'of', u'oil', u'.']
+	oil
+	engine
+[u'Is', u'it', u'an', u'electrical', u'problem', u'?']
+	issues
+[u'NO', u'ONE', u'KNOWS', u'!', u'!', u'!']
+[u'Do', u'not', u'buy', u'this', u'car', u'!', u'!', u'!']
+[u'I', u'am', u'going', u'to', u'help', u'my', u'son', u'get', u'rid', u'of', u'this', u'car', u'.']
+[u'Someone', u'is', u'going', u'to', u'get', u'killed', u'!']
+[u'I', u'rented', u'this', u'car', u'for', u'weeks', u'.']
+[u'I', u'thought', u'the', u'seats', u'were', u'very', u'comfortable', u',', u'and', u'it', u'was', u'easy', u'to', u'get', u'in', u'and', u'out', u'of', u'the', u'car', u'.']
+	seats
+[u'Overall', u'I', u'was', u'quite', u'impressed', u'with', u'the', u'car', u'.']
+[u'It', u'was', u'spacious', u',', u'the', u'trunk', u'held', u'all', u'of', u'my', u'and', u'my', u'daughter', u"'s", u'luggage', u'with', u'room', u'to', u'spare', u'.']
+	room
+	storage
+	tires
+[u'And', u'our', u'luggage', u'tests', u'the', u'limits', u'of', u'the', u'checked', u'and', u'carry-on', u'dimensions', u'.']
+	storage
+[u'The', u'controls', u'were', u'simple', u'and', u'easy', u'to', u'figure', u'out', u',', u'the', u'mirrors', u'were', u'easily', u'adjustable', u',', u'and', u'the', u'ride', u'was', u'smooth', u'.']
+	control
+	amenities
+	ride
+[u'The', u'car', u'was', u'not', u'afraid', u'to', u'go', u'very', u'fast', u'on', u'the', u'highway', u'.']
+	highway
+[u'I', u'was', u'shocked', u'to', u'see', u'how', u'fast', u'I', u'was', u'going', u'(', u'over', u'100', u')', u'at', u'one', u'point', u'because', u'it', u'was', u'gliding', u'over', u'the', u'road', u'so', u'smoothly', u'.']
+	ride
+[u'I', u'had', u'to', u'set', u'the', u'cruise', u'control', u'to', u'keep', u'myself', u'in', u'check', u'.']
+	control
+[u'The', u'only', u'negative', u'things', u'I', u'can', u'say', u'is', u'that', u'it', u'is', u'slow', u'to', u'respond', u'if', u'you', u'want', u'to', u'rapidly', u'increase', u'your', u'speed', u'.']
+[u'But', u'for', u'a', u'cylinder', u'it', u'is', u'more', u'than', u'acceptable', u'.']
+[u'And', u'the', u'car', u'has', u'such', u'a', u'low', u'clearance', u'that', u'it', u'kept', u'scraping', u'on', u'the', u'pavement', u'.']
+[u'I', u'live', u'in', u'the', u'and', u'no', u'matter', u'how', u'slow', u'I', u'entered', u'and', u'exited', u'my', u'driveway', u',', u'it', u'scraped', u'.']
+[u'And', u'no', u'matter', u'how', u'slow', u'I', u'creeped', u'through', u'intersections', u'in', u'neighborhoods', u',', u'it', u'scraped', u'.']
+[u'Loved', u'how', u'sporty', u'the', u'car', u'drove', u'during', u'the', u'test', u'drive.after', u'just', u'a', u'week', u'of', u'owning', u'the', u'car', u'(', u'purchased', u'brand', u'new', u')', u'it', u'was', u'in', u'the', u'shop', u'for', u'overheating', u'problems', u'.']
+	issues
+[u'month', u'later', u'it', u'was', u'in', u'the', u'shop', u'again', u'for', u'overheating', u'problems', u'and', u'now', u'for', u'a', u'time', u'its', u'in', u'the', u'shop', u'for', u'overheating', u'and', u'lack', u'of', u'acceleration', u'.']
+	issues
+	acceleration
+[u'Definitely', u'not', u'a', u'good', u'experience', u'with', u'thus', u'far', u'...', u'back', u'to', u'I', u'go', u'!']
+[u'I', u'just', u'love', u'this', u'car', u'.']
+[u'Best', u'car', u'I', u'ever', u'got', u'.']
+[u'Had', u'problem', u'.']
+	issues
+[u'A', u'mechanic', u'replaced', u'my', u'fuel', u'cap', u'with', u'a', u'generic', u'cap', u'.']
+	fuel
+[u'And', u'I', u'had', u'ploblems', u'with', u'the', u'sensors', u'until', u'I', u'replaced', u'the', u'fuel', u'cap', u'with', u'the', u'proper', u'dodge', u'fuel', u'cap', u'.']
+	sensors
+	fuel
+[u'Never', u'had', u'a', u'problem', u'with', u'the', u'car', u'ever', u'again', u'.']
+	issues
+[u'Just', u'bought', u'a', u'Dart', u'Limited', u'with', u'every', u'option', u'available', u'for', u'for', u'$', u'off', u'MSRP', u'.']
+	features
+[u'Put', u'miles', u'on', u'it', u'in', u'days', u'.']
+[u'I', u'did', u"n't", u'give', u'5', u'stars', u'because', u'there', u'is', u'always', u'room', u'for', u'improvement', u'.']
+	onstar
+	room
+[u'The', u'gas', u'mileage', u'not', u'so', u'great', u'in', u'city', u'.']
+	fuel
+	mileage
+	mpg
+[u'and', u'back', u'seat', u'is', u'cramped', u'.']
+	seats
+[u'My', u'last', u'was', u'a', u'400', u'Magnum', u'w/pistol', u'grip', u'4-', u'speed', u'.']
+[u'But', u'the', u'feels', u'like', u'a', u'luxury', u'car', u'.']
+	feel
+[u'You', u'will', u'have', u'a', u'difficult', u'time', u'finding', u'a', u'car', u'equipped', u'like', u'it', u'for', u'under', u'19K']
+[u'I', u'Recently', u'bought', u'a', u'dart', u'se', u'base', u'model', u'and', u'i', u'absolute', u'hate', u'!']
+[u'at', u'miles', u',', u'i', u'had', u'to', u'get', u'the', u'transmission', u'control', u'replaced', u'because', u'they', u'did', u"n't", u'do', u'the', u'recall', u'.']
+	transmission
+	control
+[u'Now', u'im', u'at', u'miles', u'and', u'the', u'car', u'randomly', u'dies', u'.']
+[u'Sometimes', u'it', u'wont', u'start', u'and', u'i', u'have', u'to', u'sit', u'and', u'wait', u'minutes', u'.']
+[u'I', u'have', u'been', u'to', u'several', u'dealers', u'and', u'all', u'of', u'them', u'are', u'telling', u'me', u'something', u'is', u'wrong', u'.']
+[u'Do', u'not', u'buy', u'this', u'car', u'!']
+[u'Do', u"n't", u'just', u'listen', u'to', u'car', u'magazines', u'.']
+[u'Drive', u'one', u',', u'see', u'what', u'they', u'are', u'all', u'about', u'.']
+	ride
+[u'I', u'love', u'this', u'car', u',', u'sporty', u',', u'great', u'looking', u',', u'well', u'Equipt', u'.']
+[u'Feels', u'much', u'more', u'expensive', u'.']
+	feel
+[u'Got', u'a', u'certified', u'used', u"'", u'rallye', u'2.4l', u'with', u'mi', u',', u'for', u'$', u'.']
+[u'year/100K', u'powertrain', u'warranty', u'.']
+	warranty
+[u'Only', u'complaint', u'is', u'low', u'profile', u"''", u'tire', u"'s", u'make', u'for', u'a', u'stiff', u'ride', u'.']
+	tires
+	ride
+[u'Lesser', u'16', u"''", u'tire', u"'s", u'probably', u'make', u'for', u'a', u'more', u'comfortable', u'ride', u'.']
+	tires
+	ride
+[u'We', u'purchased', u'our', u'with', u'miles', u'on', u'it', u',', u'with', u'miles', u'on', u'it', u'in', u'the', u'shop', u'with', u'service', u'engine', u'light', u'on', u'and', u'error', u'codes', u'on', u'the', u'transmission', u'.']
+	maintenance
+	engine
+	lights
+	transmission
+[u'If', u'we', u'have', u'trouble', u'with', u'it', u'with', u'this', u'few', u'miles', u'how', u'reliable', u'would', u'it', u'be', u'in', u'the', u'long', u'run', u'?', u'Last', u'time', u'I', u'will', u'ever', u'buy', u'a', u'product', u'.']
+	reliability
+[u'I', u'recently', u'purchased', u'a', u'brand', u'new', u'SE', u'with', u'the', u'2.0l', u'engine', u'.']
+	engine
+[u'I', u'work', u'in', u'the', u'automotive', u'field', u'and', u'have', u'driven', u'plenty', u'of', u'vehicles', u'.']
+	ride
+[u'I', u'love', u'my', u'and', u'I', u"'m", u'a', u'big', u'guy', u',', u'.I', u'did', u'not', u'like', u'the', u'as', u'much', u'as', u'I', u'love', u'this', u'.']
+[u'Edmunds', u'has', u'their', u'``', u'expert', u"''", u'review', u'all', u'wrong', u'.']
+[u'I', u'drove', u'all', u'trim', u'levels', u'and', u'the', u'base', u'model', u'with', u'the', u'automatic', u'does', u'perfectly', u'well', u'.']
+	ride
+[u'I', u'even', u'replaced', u'the', u'terrible', u'tires', u'with', u'Driveguard', u"'s", u'because', u'there', u'is', u'no', u'spare', u'.']
+	tires
+[u'Inside', u'the', u'is', u'very', u'comfy', u',', u'stereo', u'is', u'great', u',', u'controls', u'are', u'nice', u'and', u'easy', u',', u'Engine', u'Power', u'is', u'from', u'the', u'is', u'good', u'and', u'the', u'transmission', u'shifts', u'perfect', u'.']
+	comfort
+	radio
+	control
+	engine
+	power
+	transmission
+[u'I', u'have', u'been', u'averaging', u'35mph', u'on', u'the', u'highway', u'at', u'70mph', u'and', u'I', u'drive', u'miles', u'a', u'week']
+	highway
+	ride
+[u'This', u'review', u'will', u'come', u'across', u'as', u'confused', u'.']
+[u'I', u'love', u'the', u'look', u'of', u'my', u'Dodge', u'Dart', u'SE', u'auto', u'with', u'Package', u'(', u'auto', u'option', u'was', u'not', u'available', u'in', u'this', u'review', u'page', u')', u'.']
+	features
+[u'The', u'car', u'is', u'comfortable', u',', u'rides', u'very', u'well', u',', u'and', u'is', u'quiet', u'.']
+	ride
+	noise
+[u'The', u'stylish', u'exterior', u'belies', u'its', u'performance', u'.']
+	looks
+	exterior
+	performance
+[u'Handling', u'is', u'adequate', u'for', u'a', u'4-door', u'sedan', u'.']
+	handling
+[u'The', u'suspension', u'springs', u'are', u'too', u'soft', u'to', u'qualify', u'this', u'car', u'as', u'a', u'sport', u'sedan', u'.']
+	suspension
+[u'The', u'acceleration', u'with', u'this', u'2.0L', u'auto', u'is', u'lethargic', u'.']
+	acceleration
+[u'speeds', u'is', u'too', u'many', u'.']
+[u'The', u'transmission', u'is', u'always', u'shifting', u'trying', u'to', u'find', u'the', u'perfect', u'gear', u'ratio', u'.']
+	transmission
+	gears
+[u'One', u'would', u'think', u'that', u'would', u'help', u'fuel', u'economy', u',', u'.it', u'does', u"n't", u'.']
+	fuel
+[u'%', u'of', u'my', u'driving', u'is', u'city', u'driving', u'and', u'I', u'am', u'averaging', u'just', u'mpg', u'.']
+	mpg
+[u'You', u"'d", u'think', u'with', u'a', u'2.0L', u',', u'4-cylinder', u',', u'MPG', u'would', u'be', u'better', u'.']
+	mpg
+[u'This', u'is', u'probably', u'attributed', u'the', u'car', u"'s", u'heft', u'.']
+[u'The', u'good', u'thing', u'about', u'the', u'Dodge', u'Dart', u'is', u'that', u'it', u'is', u'cheap', u'.']
+[u'With', u'generous', u'incentives', u'and', u'a', u'well', u'negotiated', u'price', u',', u'I', u'purchased', u'my', u'car', u'new', u'for', u'over', u'$', u'15,000', u'.']
+	cost
+[u'I', u'needed', u'a', u'cheap', u'4-door', u'sedan', u',', u'and', u'this', u'seemed', u'the', u'best', u'option', u'for', u'a', u'new', u'vehicle', u'.']
+	features
+[u'Tire', u'pressure', u'sensitivity', u'gauge', u'too', u'sensitive', u',', u'like', u'most', u'updated', u'vehicles', u'.']
+	tires
+	gauges
+[u'Just', u'a', u'pain', u'to', u'deal', u'with', u'.']
+	cost
+[u'Tire', u'pressure', u'changes', u'with', u'the', u'weather', u'.']
+	tires
+[u'16k', u'on', u'mine', u'with', u'problems', u'!', u'!']
+	issues
+[u'only', u'compliant', u'is', u'carpet', u'is', u'of', u'low', u'quality', u'and', u'a', u'bit', u'tuff', u'to', u'vacuum', u'otherwise', u'interior', u'looks', u'and', u'still', u'smells', u'new', u'!', u'!']
+	floor
+	quality
+	interior
+[u'gas', u'mileage', u'has', u'been', u'25-27', u'combined', u'and', u'hwy', u'doing', u'80mph', u'!']
+	fuel
+	mileage
+	mpg
+[u'No', u'rattles', u'and', u'still', u'drives', u'like', u'it', u"'s", u'new', u'!', u'!']
+	noise
+	ride
+[u'is', u'horrible', u'to', u'drive', u'in', u'snow.I', u"'m", u'sure', u'factory', u'are', u'to', u'blame', u'!']
+	ride
+[u'!']
+[u'Ok', u'so', u'for', u'starters', u'this', u'car', u'was', u"n't", u'my', u'choice', u'.']
+[u'I', u'previously', u'owned', u'a', u'V6', u'Ford', u'Mustang', u'and', u'it', u'was', u'great', u'while', u'it', u'lasted.unfortunately', u'it', u'was', u'it', u"'s", u'time', u'with', u'over', u'+', u'miles', u'on', u'it', u'.']
+[u'I', u'was', u'in', u'need', u'of', u'a', u'car', u'because', u'that', u'was', u'my', u'only', u'transportation', u'at', u'the', u'time', u'.']
+[u'I', u'ended', u'up', u'buying', u'the', u'base', u'model', u'dart', u'with', u'the', u'black', u'top', u'package', u'.']
+[u'In', u'my', u'opinion', u'it', u'definitely', u'has', u'the', u'looks', u'it', u"'s", u'a', u'great', u'looking', u'car', u'and', u'a', u'good', u'size', u'not', u'too', u'big', u'or', u'small', u'.']
+	size
+[u'Especially', u'how', u'everything', u'is', u'black', u'on', u'black', u'and', u'also', u'has', u'tint', u'so', u'it', u'looks', u'awesome', u'.']
+[u'But', u'I', u'was', u'kind', u'of', u'bummed', u'that', u'I', u'did', u"n't", u'receive', u'the', u'black', u'rims', u'instead', u'I', u'received', u'the', u'charcoal', u'colored', u'wheels', u'.']
+	tires
+[u'The', u'interior', u'is', u'nice', u',', u'good', u'materials', u'nothing', u'really', u'cheap', u'looking', u'it', u'looks', u'good', u'inside', u'and', u'out', u'.']
+	interior
+	materials
+[u'But', u'now', u'the', u'bad', u'parts', u'!']
+[u'Well', u'the', u'control', u'stick', u'was', u'frustrating', u'when', u'I', u'test', u'drove', u'it', u'I', u'did', u"n't", u'pay', u'any', u'attention', u'to', u'the', u'fact', u'that', u'their', u'is', u'only', u'one', u'control', u'stick', u'on', u'the', u'left', u'side', u'of', u'the', u'wheel', u'.']
+	control
+	transmission
+	tires
+[u'It', u'was', u'annoying.I', u'eventually', u'got', u'used', u'to', u'it', u'.']
+[u'The', u'biggest', u'problem', u'the', u'!']
+	issues
+[u'Wow', u'the', u'transmission', u'is', u'awful.I', u'should', u'have', u'known', u'coming', u'from', u'that', u'this', u'would', u'be', u'an', u'issue', u'.']
+	transmission
+	issues
+[u'The', u'car', u'jerks', u'at', u'times', u'when', u'I', u'slow', u'down', u'or', u'excellerate', u'.']
+	feel
+	acceleration
+[u'It', u'shakes', u'pretty', u'bad', u'right', u'in', u'between', u'the', u'process', u'of', u'stopping', u'and', u'excelleration', u'.']
+	feel
+	acceleration
+[u'When', u'I', u'start', u'the', u'car', u'it', u'shakes', u'when', u'Parked', u'.']
+	feel
+[u'And', u'the', u'dealers', u'answer', u'for', u'this', u'was', u'that', u'the', u'car', u'is', u'``', u'warming', u'up', u"''", u'.']
+[u'Very', u'very', u'poor', u'excelleration.once', u'it', u'gets', u'to', u'a', u'certain', u'rpm', u'its', u'decent', u'.']
+[u'It', u'has', u'this', u'horrible', u'lag', u'when', u'you', u'try', u'to', u'speed', u'up', u'.']
+[u'And', u'the', u'answer', u'I', u'received', u'for', u'this', u'and', u'the', u'shaking', u'and', u'jerking', u'was', u'``', u'the', u'computer', u'is', u'trying', u'to', u'learn', u'your', u'driving', u'habits', u"''", u'that', u"'s", u'bull', u'dodge', u'!']
+	computer
+	ride
+[u'I', u'have', u'had', u'transmission', u'issues', u'with', u'my', u'mustang', u'before', u'so', u'I', u'know', u'exactly', u'what', u'a', u'bad', u'transmission', u'feels', u'like', u'.']
+	transmission
+	issues
+	feel
+[u'And', u'now', u'I', u"'m", u'proven', u'right', u'.']
+[u'Just', u'recently', u'saw', u'articles', u'saying', u',', u'and', u'models', u'are', u'being', u'recalled', u'for', u'faulty', u'transmission', u'surprise', u'surprise', u'!']
+	transmission
+[u'And', u'the', u'gas', u'mileage', u'for', u'being', u'a', u'cylinder', u'is', u"n't", u'all', u'that', u'great', u'definitely', u'not', u'what', u'they', u'promise', u'anyways', u'.']
+	fuel
+	mileage
+[u'I', u'regret', u'getting', u'this', u'car.I', u"'m", u'stuck', u'with', u'it', u'at', u'least', u'for', u'a', u'bit', u'.']
+	transmission
+[u'I', u'would', u'avoid', u'it', u'just', u'do', u"n't", u'bother', u'please', u'do', u"n't", u'make', u'the', u'same', u'mistake', u'I', u'did', u'.']
+[u'I', u'got', u'this', u'car', u'as', u'I', u'was', u'looking', u'for', u'cheap', u'reliable', u'transportation.ended', u'up', u'being', u'able', u'to', u'lease', u'a', u'.']
+	reliability
+[u'Had', u'the', u'car', u'for', u'six', u'months', u'and', u'so', u'far', u'have', u"n't", u'had', u'a', u'bad', u'experience', u'.']
+[u'I', u'wish', u'the', u'headlights', u'threw', u'a', u'little', u'farther', u'and', u'it', u'tends', u'to', u'hesitate', u'a', u'little', u'when', u'you', u'step', u'on', u'the', u'gas.all', u'around', u'its', u'performs', u'pretty', u'well', u'.']
+	lights
+	performance
+[u'The', u'gas', u'mileage', u'leaves', u'little', u'to', u'be', u'desired', u'and', u'it', u'handles', u'well', u'.']
+	fuel
+	mileage
+[u'My', u'major', u'complaint', u'is', u'that', u'with', u'the', u'material', u'of', u'the', u'dashboard', u',', u'the', u'black', u'interior', u'looks', u'incredibly', u'dirty', u'within', u'a', u'matter', u'of', u'days', u',', u'.smoking', u'in', u'the', u'car', u'probably', u'does', u"n't", u'help', u'.']
+	materials
+	dashboard
+	interior
+[u'Overall', u'I', u'would', u'recommend', u'this', u'car', u'.']
+[u'Purchased', u'a', u'Focus', u'Hatchback', u'Titanium', u'with', u'manual', u'transmission', u'.']
+	transmission
+[u'I', u"'ve", u'driven', u'the', u'car', u'for', u'about', u'2,000', u'miles', u'so', u'far', u'and', u'am', u'surprised', u'by', u'the', u'handling', u'and', u'gas', u'mileage', u'.']
+	handling
+	fuel
+	mileage
+[u'I', u"'ve", u'been', u'getting', u'around', u'mpg', u'on', u'the', u'highway', u'which', u'is', u'more', u'than', u'the', u'Dart', u'Aero', u'Turbo', u'I', u'traded', u'in', u'.']
+	mpg
+	highway
+	engine
+[u'After', u'having', u'so', u'many', u'problems', u'with', u'and', u'Auto', u'DDCT', u'I', u'decided', u'to', u'cut', u'my', u'losses', u'and', u'get', u'.']
+	issues
+[u'The', u'interior', u'is', u'great', u'and', u'really', u'comfortable', u'during', u'my', u'mile', u'a', u'day', u'commute', u'.']
+	interior
+[u'has', u'really', u'changed', u'the', u'since', u'the', u'last', u'one', u'I', u'had', u'driven', u'which', u'I', u'believe', u'was', u'a', u'.']
+	ride
+[u'The', u'interior', u'is', u'somewhat', u'comparable', u'to', u'the', u'feel', u'of', u'my', u'except', u'way', u'cheaper', u'price', u'wise', u'.']
+	interior
+	feel
+	cost
+[u'I', u'guess', u'some', u'people', u'have', u'mentioned', u'some', u'issues', u'with', u'the', u'automatic', u'transmission.the', u'5-speed', u'manual', u'has', u'been', u'very', u'smooth', u'and', u'have', u"n't", u'noticed', u'any', u'issues', u'.']
+	issues
+[u'Have', u"n't", u'tried', u'E85', u'fuel.since', u'the', u'price', u'of', u'regular', u'gas', u'is', u"n't", u'much', u'of', u'a', u'difference', u'at', u'the', u'moment', u'and', u'has', u'better', u'MPG', u'.']
+	cost
+	fuel
+	mpg
+[u'I', u'almost', u'went', u'with', u'a', u'Focus', u'ST.thought', u'I', u'would', u'prefer', u'the', u'luxury', u'feel', u'while', u'commuting', u'miles', u'a', u'week', u'.']
+	feel
+[u'Have', u'owned', u',', u'a', u',', u'a', u'SEL', u'and', u'now', u'a', u'Titanium', u'.']
+[u'I', u'have', u'found', u'three', u'to', u'be', u'what', u'I', u'expected', u'.']
+[u'Good', u'all', u'around', u'drivers', u'with', u'some', u'minor', u'issues.no', u'major', u'ones', u'.']
+[u'My', u'iPhone', u'connected', u'well', u'and', u'works', u'well', u'.']
+	connectivity
+[u'Mileage', u'is', u'good', u',', u'around', u'town', u'so', u'far', u'is', u'29-30', u'MPG', u'and', u'freeway', u'looks', u'to', u'approach', u'MPG', u'.']
+	mileage
+	mpg
+	highway
+[u'While', u'intended', u'to', u'be', u'our', u'run', u'around', u'town', u'car', u',', u'it', u'is', u'comfortable', u'enough', u'to', u'travel', u'in', u'.']
+[u'Instrument', u'cluster', u'initially', u'confusing.now', u'is', u'OK', u'.']
+	gauges
+[u'I', u'do', u'not', u'understand', u'why', u'you', u'can', u'reset', u'the', u'``', u'Oil', u'Life', u"''", u'.ca', u"n't", u'find', u'a', u'percentage', u'left', u'...', u'Makes', u'no', u'sense', u'to', u'me', u'.']
+	oil
+[u'Vehicle', u'is', u'smooth', u'on', u'the', u'road', u'and', u'quiet', u'on', u'the', u'freeway', u'.']
+	ride
+	noise
+	highway
+[u'I', u'have', u'not', u'noticed', u'any', u'clutch', u'issues', u',', u'my', u'guess', u'is', u'that', u'they', u'have', u'been', u'corrected', u'.']
+	transmission
+	issues
+[u'Have', u'had', u'the', u'vehicle', u'for', u'a', u'bit', u'over', u'a', u'month', u'and', u'have', u'a', u'quiet', u'rattle', u'in', u'the', u'rear', u'that', u'is', u'not', u'always', u'noticeable', u'.']
+	noise
+[u'I', u'may', u'take', u'it', u'in.I', u'get', u'easily', u'frustrated', u'with', u'the', u'``', u'No', u'problem', u'found', u"''", u'response', u'from', u'dealers', u'.']
+	issues
+[u'Overall', u',', u'I', u'would', u'recommend', u'this', u'car', u'to', u'those', u'considering', u'something', u'in', u'this', u'segment', u'.']
+[u'Follow', u'up', u'...']
+[u'Overall', u',', u'I', u'am', u'still', u'happy', u'with', u'the', u'vehicle', u'.']
+[u'My', u'one', u'and', u'only', u'major', u'complaint', u'is', u'the', u'transmission', u'.']
+	transmission
+[u'Specifically', u',', u'the', u'clutch', u'.']
+	transmission
+[u'It', u'is', u'an', u'automatic', u'and', u'has', u'(', u'I', u'am', u'told', u')', u'a', u'double', u'dry', u'clutch', u'.']
+	transmission
+[u'What', u'ever', u'they', u'did', u'in', u'the', u'design', u'of', u'this', u'thing', u'was', u'/', u'is', u'a', u'major', u'muck', u'up', u'.']
+	design
+	looks
+[u'Lots', u'of', u'judder', u'at', u'take', u'off', u'from', u'a', u'standing', u'start', u'.']
+[u'All', u'other', u'gears', u'shift', u'fine', u'.']
+	gears
+[u'This', u'issue', u'will', u'not', u'make', u'me', u'shy', u'away', u'from', u'Ford', u',', u'.it', u'is', u'a', u'major', u'nuisance', u'.']
+	issues
+[u'Whoever', u'is', u'responsible', u'for', u'this', u'at', u'should', u'be', u'taken', u'out', u'to', u'the', u'woodshed', u'.']
+[u'I', u'have', u'no', u'idea', u'where', u'to', u'even', u'begin', u',', u'.so', u'far', u'with', u'just', u'miles', u'on', u'this', u'car', u',', u'it', u'needs', u'quite', u'a', u'bit', u'of', u'work', u'.']
+[u'The', u'wipers', u'act', u'like', u'rain', u'sensing', u'wipers', u',', u'which', u'I', u'do', u'not', u'have', u'.']
+	windows
+[u'The', u'heater', u'when', u'on', u'level', u'acts', u'like', u'it', u'has', u'climate', u'control', u',', u'which', u'it', u'does', u'not', u'and', u'also', u'likes', u'to', u'come', u'on', u'when', u'I', u'start', u'the', u'car', u'(', u'I', u'shut', u'it', u'completely', u'off', u'when', u'shut', u'off', u'the', u'car', u')', u'and', u'then', u'it', u'takes', u'or', u'six', u'tries', u'before', u'it', u'will', u'stay', u'off', u'.']
+	ac
+	control
+[u'I', u'have', u'a', u'belt', u'that', u'squeels', u'when', u'I', u'start', u'the', u'car', u'.']
+[u'The', u'shifting', u'of', u'this', u'car', u'is', u'a', u'laugh', u'as', u'it', u'has', u'more', u'noises', u'that', u'I', u'can', u'count', u'and', u'they', u'told', u'me', u'that', u'was', u'normal', u'.']
+	noise
+[u'The', u'way', u'this', u'car', u'acts', u',', u'I', u'am', u'afraid', u'of', u'what', u'will', u'happen', u'when', u'the', u'warranty', u'runs', u'out', u'.']
+	warranty
+[u'I', u'just', u'have', u'the', u'feeling', u'that', u'this', u'car', u'will', u'not', u'be', u'reliable', u'at', u'all', u'.']
+	feel
+	reliability
+[u'The', u'positives', u'of', u'the', u'car', u'are', u'I', u'like', u'the', u'color', u'(', u'performance', u'blue', u')', u',', u'I', u'love', u'the', u'heated', u'seats', u'and', u'heated', u'steering', u'wheel', u'.']
+	performance
+	seats
+	steering
+	tires
+[u'These', u'are', u'the', u'only', u'two', u'things', u'that', u'actual', u'work', u'right', u'.']
+[u'UPDATE', u'8/12/16', u'-', u'have', u'had', u'the', u'car', u'a', u'year', u',', u'has', u'miles', u'and', u'it', u'continues', u'to', u'be', u'a', u'problem', u'.']
+	issues
+[u'Transmission', u'was', u'fixed', u'for', u'about', u'miles', u'and', u'now', u'makes', u'noise', u'again', u'.']
+	transmission
+	noise
+[u'Electronics', u'all', u'messed', u'up', u'and', u'dealership', u'can', u'not', u'``', u'replicate', u"''", u'the', u'problem', u'.']
+	issues
+[u'I', u'am', u'ready', u'to', u'take', u'the', u'loss', u'and', u'trade', u'this', u'piece', u'of', u'junk', u'in', u'for', u'a', u'.']
+[u'Before', u'getting', u'into', u'my', u'Focus', u'I', u'owned', u'a', u'Focus', u'.']
+[u'My', u'was', u'unfortanlly', u'wrecked', u'and', u'I', u'loved', u'the', u'car', u'so', u'much', u'I', u'diddnt', u'want', u'anything', u'else', u'other', u'then', u'my', u'focus', u'back', u'.']
+[u'I', u'ended', u'up', u'landing', u'in', u'a', u'Ford', u'Focus', u'.']
+[u'first', u'week', u'I', u'had', u'the', u'focus', u'I', u'brought', u'it', u'into', u'the', u'shop', u'for', u'a', u'shakey', u'transmission', u'and', u'poor', u'acceleration', u'.']
+	feel
+	transmission
+	acceleration
+[u'I', u'was', u'told', u'nothing', u'is', u'wrong', u'with', u'my', u'car', u'.']
+[u'year', u'later', u'having', u'the', u'same', u'issues', u'and', u'a', u'few', u'more', u'that', u'includes', u'the', u'focus', u'dying', u'and', u'stepping', u'on', u'the', u'gas', u'with', u'the', u'Rpms', u'running', u'up', u'to', u'before', u'it', u'jerks', u'and', u'sputters', u'and', u'makes', u'a', u'final', u'move', u'.']
+	issues
+	fuel
+	feel
+[u'my', u'focus', u'currently', u'needs', u'a', u'new', u'clutch', u'and', u'a', u'few', u'sensors', u'with', u'15,000', u'miles', u'.']
+	transmission
+	sensors
+[u'I', u'come', u'from', u'a', u'ford', u'family', u'and', u'have', u'owned', u'fords', u'my', u'whole', u'life.this', u'will', u'be', u'the', u'last', u'``', u'New', u"''", u'ford', u'I', u'will', u'ever', u'by', u'.']
+[u'My', u'escort', u'ran', u'better', u'then', u'2015', u'Focus', u'.']
+[u'They', u'changed', u'the', u'transmission', u'in', u'this', u'Focus', u'and', u'I', u'think', u'it', u"'s", u'the', u'biggest', u'mistake', u'ford', u'has', u'ever', u'made', u'.']
+	transmission
+[u'I', u'hope', u'they', u'recall', u'this', u'car', u'before', u'they', u'lose', u'a', u'lot', u'of', u'valuable', u'customers', u'.']
+[u'My', u'focus', u'will', u'be', u'traded', u'in', u'at', u'the', u'end', u'of', u'this', u'month', u'once', u'I', u'was', u'told', u'they', u'needed', u'it', u'for', u'to', u'10', u'weeks', u'for', u'repairs', u'.']
+	issues
+[u'My', u'advice', u'would', u'be', u'look', u'elsewhere', u'if', u'you', u'want', u'a', u'ford', u'do', u"n't", u'buy', u'it', u'new', u'.']
+[u'I', u'had', u'a', u'Fiesta', u'and', u'at', u'the', u'time', u'was', u'great', u'until', u'I', u'got', u'hired', u'to', u'deliver', u'pizzas', u'.']
+[u'The', u'focus', u'is', u'a', u'big', u'upgrade', u'for', u'me', u'.']
+[u'I', u'spend', u'most', u'of', u'my', u'day', u'in', u'my', u'car', u'driving', u'.']
+[u'Very', u'roomy', u'and', u'the', u'back', u'up', u'camera', u'is', u'very', u'helpful', u'.']
+	room
+	camera
+[u'The', u'front', u'seats', u'are', u'very', u'comfortable.never', u'sat', u'in', u'back', u'.']
+	seats
+[u'Heated', u'seats', u'and', u'steering', u'wheel', u'is', u'a', u'great', u'plus', u'.']
+	seats
+	steering
+	tires
+[u'I', u"'m", u'glad', u'they', u'fixed', u'the', u'thing', u'tho', u'.']
+[u'The', u'robot', u'lady', u'understands', u'everything', u'I', u'say', u',', u'whether', u'be', u'to', u'call', u'someone', u'or', u'play', u'a', u'song', u'.']
+[u'Drives', u'very', u'smooth', u'.']
+	ride
+[u'Nice', u'and', u'quiet', u'ride', u'and', u'actually', u'handles', u'well', u'in', u'snow', u'!']
+	noise
+	ride
+	snow
+[u'USB', u'ports', u'and', u'an', u'auxiliary', u'.']
+	connectivity
+[u'I', u'love', u'all', u'the', u'cup', u'holders', u'too', u'.']
+	cupholders
+	holders
+[u'Like', u'up', u'front', u'maybe', u'in', u'back', u'haha', u'.']
+[u'And', u'I', u'am', u'most', u'happy', u'that', u'I', u'got', u'it', u'in', u'black', u'with', u'black', u'interior', u'yay', u'.']
+	interior
+[u'Do', u'yourself', u'a', u'huge', u'favor', u'and', u'do', u'not', u'buy', u'this', u'car', u'with', u'the', u'``', u'automatic', u"''", u'transmission', u'.']
+	transmission
+[u'It', u'is', u'the', u'worst', u'car', u'I', u'have', u'EVER', u'owned', u'(', u'and', u'I', u'have', u'owned', u'more', u'than', u'I', u'would', u'care', u'to', u'admit', u')', u'in', u'terms', u'of', u'the', u'transmission', u'and', u'reliability', u'.']
+	transmission
+	reliability
+[u'is', u'well', u'aware', u'of', u'the', u'defective', u'transmission', u'and', u'its', u'electronic', u'controls', u'and', u'still', u'is', u'somehow', u'able', u'to', u'foist', u'this', u'piece', u'of', u'trash', u'on', u'the', u'public', u'!']
+	transmission
+	control
+[u'The', u'dealer', u'is', u'now', u'replacing', u'the', u'clutch', u'on', u'this', u'POS', u'and', u'has', u'told', u'them', u'that', u'they', u'can', u'expect', u'the', u'part', u'in', u'weeks', u'.']
+	transmission
+[u'Nice', u'!']
+[u'The', u'transmission', u'issues', u'started', u'around', u'the', u'mile', u'mark', u'and', u'have', u"n't", u'been', u'fixed', u'yet', u'.']
+	transmission
+	issues
+[u'The', u'car', u'now', u'has', u'miles', u'on', u'it', u'.']
+[u'I', u'just', u'finished', u'mediation', u'with', u'about', u'a', u'ghosting', u'issue', u'and', u'basically', u'said', u'it', u'is', u"n't", u'their', u'problem', u'since', u'the', u'windshield', u'is', u"n't", u'under', u'warranty', u'.']
+	finish
+	issues
+	windows
+	warranty
+[u'And', u'a', u'defect', u'is', u"n't", u'their', u'problem', u'.']
+	issues
+[u'Check', u'out', u'my', u'post', u'in', u'.']
+[u'Under', u'the', u'MK3', u'thread', u'.']
+[u'You', u'will', u'also', u'read', u'up', u'on', u'many', u'issues', u'that', u'enthusiasts', u'like', u'myself', u'have', u'been', u'shoveled', u'.']
+	issues
+[u'The', u'only', u'thing', u'does', u'is', u'has', u'a', u'tech', u'go', u'on', u'and', u'say', u'that', u'they', u"'ll", u'escalate', u'the', u'issue', u'.']
+	technology
+	issues
+[u'Which', u'is', u'a', u'joke', u'.']
+[u'has', u'just', u'lost', u'me', u'as', u'a', u'new', u'car', u'customer', u'.']
+[u'My', u'wife', u'had', u'better', u'luck', u'with', u'her', u'500L', u'built', u'in', u'.']
+[u'If', u'it', u'was', u"n't", u'fr', u'the', u'windshield', u'issue', u'and', u'the', u'horrible', u'exerience', u'with', u',', u'I', u"'d", u'love', u'this', u'car', u'.']
+	windows
+	issues
+[u'Oh', u'and', u'beware', u'.']
+[u'will', u'close', u'your', u'case', u'in', u'customer', u'service', u'without', u'notifying', u'you', u'.']
+	maintenance
+[u'I', u'had', u'to', u'call', u'to', u'find', u'this', u'out', u'.']
+[u'I', u"'m", u'looking', u'into', u'filing', u'a', u'lawsuit', u'and', u'hoping', u'to', u'find', u'more', u'with', u'the', u'same', u'issue', u'.']
+	issues
+[u'I', u'have', u'had', u'this', u'car', u'for', u'a', u'year', u'and', u'I', u'have', u'hated', u'every', u'single', u'day', u'with', u'it', u'.']
+[u'The', u'car', u'looks', u'nice', u'and', u'has', u'some', u'nice', u'features', u'such', u'as', u'heated', u'seats', u',', u'heated', u'steering', u'wheel', u',', u'back', u'up', u'camera', u'and', u'parking', u'sensors', u',', u'.the', u'way', u'it', u'drives', u'is', u'absolutely', u'terrible', u'.']
+	features
+	seats
+	steering
+	tires
+	camera
+	sensors
+	ride
+[u'This', u'car', u'does', u'not', u'drive', u'like', u'a', u'normal', u'car', u'should', u'.']
+	ride
+[u'It', u'is', u'very', u'very', u'hesitant', u'when', u'you', u'need', u'to', u'get', u'up', u'and', u'go', u'.']
+	feel
+[u'Starting', u'off', u'it', u'shutters', u'like', u'its', u'about', u'to', u'stall', u'.']
+[u'At', u'first', u'it', u'was', u'ok.it', u'gets', u'very', u'annoying', u'after', u'a', u'while', u'and', u'at', u'this', u'point', u'I', u'am', u'looking', u'at', u'every', u'option', u'to', u'get', u'rid', u'of', u'this', u'car', u'.']
+	features
+[u'It', u'also', u'has', u'a', u'cheap', u'build', u'quality', u'.']
+	quality
+[u'I', u'have', u'had', u'to', u'had', u'my', u'rear', u'passenger', u'door', u'adjusted', u'because', u'it', u'was', u'falling', u'of', u'the', u'hinges', u'.']
+[u'My', u'drivers', u'seat', u'always', u'comes', u'loose', u'and', u'moves', u'around', u'while', u'I', u'am', u'driving', u'.']
+	seats
+	ride
+[u'Mind', u'you', u'this', u'car', u'is', u'not', u'even', u'a', u'year', u'old', u'.']
+[u'I', u'have', u'had', u'to', u'replace', u'bulbs', u'multiple', u'times', u'as', u'well', u'.']
+[u'I', u'would', u'HIGHLY', u'recommend', u'staying', u'away', u'from', u'buying/leasing', u'this', u'car', u'.']
+[u'There', u'are', u'so', u'many', u'other', u'options', u'and', u'better', u'cars', u'for', u'the', u'money', u'than', u'this', u'terrible', u'car', u'.']
+	features
+[u'is', u'a', u'disaster', u',', u'did', u'not', u'work', u'with', u'my', u'Android', u'phone', u'.']
+	cellphone
+[u'Slow', u',', u'quirky', u'experience', u'with', u'iPhone', u'.']
+[u'NVH', u'on', u'highway', u'felt', u'pronounced', u',', u'.not', u'necessarily', u'worse', u'than', u'other', u'cars', u'in', u'this', u'class', u'.']
+	highway
+[u'As', u'compared', u'to', u'a', u'low', u'spec', u',', u'this', u'car', u"'s", u'non-driving', u'interface', u'(', u'ventilation', u',', u'radio', u',', u'and', u'car', u'information', u')', u'is', u'clunky', u',', u'awkward', u',', u'and', u'slow', u'.']
+	ac
+	radio
+[u'Otherwise', u'the', u'cars', u'are', u'similar', u'.']
+[u'I', u'have', u'had', u'this', u'car', u'one', u'month', u'.']
+[u'It', u'is', u'a', u'pleasure', u'to', u'drive', u'a', u'new', u'car', u'since', u'I', u'treat', u'myself', u'only', u'about', u'every', u'ten', u'years', u'.']
+	ride
+[u'The', u'fuel', u'economy', u'and', u'acceleration', u'are', u'great', u'.']
+	fuel
+	acceleration
+[u'Reliability', u'is', u'still', u'to', u'be', u'determined.the', u'radio', u'quit', u'after', u'days', u',', u'was', u'confirmed', u'as', u'non-operational', u'by', u'the', u'dealer', u',', u'then', u'resumed', u'working', u'without', u'any', u'repairs', u'being', u'made', u'.']
+	reliability
+	radio
+	issues
+[u'I', u'suspect', u'I', u'will', u'have', u'future', u'problems', u'with', u'it', u'.']
+	issues
+[u'The', u'ride', u'is', u'rather', u'stiff', u',', u'probably', u'because', u'the', u'recommended', u'tire', u'pressure', u'is', u'psi', u'.']
+	ride
+	tires
+[u'The', u'automatic', u'transmission', u'is', u'built', u'to', u'emulate', u'a', u'manual', u'transmission', u'so', u'shifting', u'is', u'very', u'noticeable', u'and', u'not', u'always', u'at', u'the', u'optimum', u'transition', u'points', u'.']
+	transmission
+[u'The', u'transmission', u'has', u'an', u'L', u'position', u'on', u'the', u'shifter', u',', u'rather', u'than', u'an', u'S', u',', u'and', u'there', u'is', u'no', u'documentation', u'in', u'the', u'owners', u'manual', u'concerning', u'this', u'.']
+	transmission
+[u'Customer', u'Service', u'(', u')', u'was', u'able', u'to', u'give', u'me', u'a', u'good', u'understanding', u'of', u'how', u'it', u'operates.it', u'is', u'surprising', u'that', u'they', u'could', u'not', u'provide', u'me', u'with', u'anything', u'in', u'writing', u'.']
+	maintenance
+[u'A', u'rear', u'view', u'camera', u'is', u'standard', u'which', u'is', u'a', u'nice', u'touch', u'.']
+	visibility
+	camera
+[u'Sadly', u',', u'I', u'did', u"n't", u'read', u'the', u'reviews', u'before', u'I', u'bought', u'this', u'car', u'.']
+[u'The', u'transmission', u'is', u'horrible', u'and', u'I', u"'m", u'told', u'that', u"'s", u'the', u'way', u'it', u'is', u'.']
+	transmission
+[u'and', u'last', u'product', u'I', u'will', u'buy', u'.']
+[u'It', u"'s", u'been', u'in', u'the', u'shop', u'twice', u'already', u'and', u'I', u"'ve", u'only', u'owned', u'it', u'for', u'months', u'.']
+[u'Air', u'condition', u'module', u'had', u'to', u'be', u'replaced', u'and', u'a', u'fuse', u'was', u'blown', u'in', u'addition', u'to', u'all', u'the', u'transmission', u'issues', u'.']
+	ac
+	transmission
+	issues
+[u'Stay', u'away', u'from', u'this', u'car', u'!']
+[u'I', u'dont', u'know', u'how', u'they', u'rate', u'this', u'car', u'a', u'b.what', u'ever', u'this', u'car', u'has', u'been', u'in', u'the', u'shop', u'times', u'and', u'has', u'on', u'it', u'transmission', u'is', u'garbage', u'and', u'ford', u'thinks', u'to', u'reprogram', u'tcm', u'if', u'the', u'fix', u'car', u'kicks', u'and', u'grinds', u'and', u'i', u'see', u'why', u'there', u'is', u'a', u'law', u'suit', u'for', u'this', u'car', u'complete', u'rip', u'off', u'and', u'ford', u'customer', u'service', u'center', u'and', u'case', u'workers', u'trying', u'to', u'sweep', u'it', u'under', u'the', u'rug', u'and', u'basically', u'says', u'sue', u'us', u'we', u'are', u'not', u'buying', u'car', u'back', u'even', u'when', u'the', u'car', u'will', u'cause', u'you', u'to', u'jump', u'forward', u'in', u'an', u'intersection', u'and', u'cause', u'acciden', u'.']
+	transmission
+	maintenance
+[u'guess', u'people', u'have', u'to', u'get', u'hurt', u'or', u'die', u'for', u'them', u'to', u'maybe', u'say', u'we', u'need', u'to', u'fix', u'this', u'.']
+[u'ford', u'is', u'a', u'fail', u'in', u'my', u'book', u'.']
+[u'and', u'dealship', u'says', u'this', u'is', u'an', u'issue', u'that', u'they', u'dont', u'know', u'how', u'to', u'fix', u'.']
+	issues
+[u'Just', u'read', u'the', u'elderly', u'gentlemans', u'review', u'from', u'march', u'and', u'felt', u'compelled', u'to', u'respond', u'.']
+[u'I', u"'m", u'week', u'in', u'owning', u'a', u'Focus', u'SE', u'Hatch', u'.']
+[u'This', u'is', u'my', u'Focus', u'.']
+[u'Had', u'a', u'that', u'I', u'traded', u'in', u'on', u'the', u'current', u'one', u'.']
+[u'Here', u"'s", u'what', u'was', u'explained', u'to', u'me', u'about', u'the', u'transmission', u'by', u'service', u'and', u'sales', u';', u'it', u"'s", u'actually', u'a', u'manual', u'transmission', u'that', u'has', u'clutches', u'.']
+	transmission
+	maintenance
+[u'The', u'chattering', u'sensation', u'is', u'the', u'clutches', u'engaging', u'against', u'the', u'flywheel', u'and', u'is', u'normal', u'.']
+	transmission
+[u'If', u'you', u"'ve", u'ever', u'driven', u'a', u'manual', u'pedal', u'clutch', u'car', u'not', u'all.most', u'make', u'a', u'similar', u'chatter', u'.']
+	ride
+	transmission
+[u'Now', u'when', u'I', u'say', u'chatter', u'this', u'is', u'very', u'subtle', u'and', u'I', u'test', u'drove', u"'s", u'and', u'they', u'both', u'did', u'it', u'.']
+[u'My', u'also', u'did', u'it', u'and', u'had', u'on', u'trade', u'with', u'no', u'tranny', u'problems', u'.']
+	transmission
+	issues
+[u'This', u'is', u'my', u'Focus', u'.']
+[u'I', u'decided', u'to', u'buy', u'``', u'new', u"''", u'this', u'time', u',', u'having', u'bought', u'used', u'before', u'and', u'the', u'cars', u'were', u'great', u'.']
+[u'This', u'one', u'is', u'great', u'also', u'in', u'most', u'ways', u'.']
+[u'However', u',', u'I', u'do', u'NOT', u'like', u'the', u'transmission', u'.']
+	transmission
+[u'The', u'hesitation', u'felt', u'on', u'acceleration', u'is', u'a', u'big', u'issue', u'for', u'me', u'.']
+	acceleration
+	issues
+[u'Both', u'of', u'my', u'previous', u'Focus', u'vehicles', u'had', u'quick', u'acceleration', u'.']
+	acceleration
+[u'This', u'one', u'will', u'too', u'...', u'but', u'if', u'you', u'push', u'past', u'the', u'``', u'hesitation', u"''", u'then', u'it', u'REVS', u'up', u'to', u'rpm', u'and', u'goes', u'back', u'down', u'again', u',', u'which', u'I', u'also', u'do', u'not', u'like', u'.']
+[u'When', u'I', u'bought', u'this', u'car', u'I', u'thought', u'with', u'it', u'being', u'new', u'and', u'the', u'fact', u'that', u'I', u'do', u"n't", u'drive', u'much', u'that', u'this', u'might', u'be', u'my', u'``', u'last', u"''", u'car', u',', u'now', u'it', u'will', u'depend', u'on', u'how', u'much', u'I', u'can', u'tolerate', u'that', u'hesitation', u'issue', u'.']
+	ride
+	issues
+[u'No', u'option', u'to', u'choose', u'cyl', u'auto', u'transmission', u'which', u'I', u'have', u'.']
+	features
+	transmission
+[u'UPDATE', u'5/2016', u':', u'After', u'contacting', u'the', u'dealer', u'where', u'I', u'bought', u'the', u'car', u',', u'and', u'itself', u'and', u'both', u'telling', u'me', u'that', u'the', u'transmission', u'has', u'a', u'``', u'unique', u"''", u'response', u'I', u'thought', u'I', u'was', u'stuck', u'with', u'it', u'.']
+	transmission
+[u'It', u'started', u'getting', u'worse', u'and', u'in', u'I', u'went', u'to', u'a', u'different', u'dealer', u'.']
+[u'After', u'testing', u',', u'the', u'clutch', u'in', u'my', u'transmission', u'``', u'failed', u"''", u'.']
+	transmission
+[u'The', u'part', u'was', u'on', u'national', u'``', u'back', u'order', u"''", u'for', u'8-10', u'weeks', u'.']
+[u'It', u'was', u'repaired', u'week', u'and', u'running', u'really', u'well', u'now', u'.']
+	issues
+[u'My', u'gas', u'mileage', u'has', u'increased', u'dramatically', u'.']
+	fuel
+	mileage
+[u'For', u'anyone', u'with', u'transmission', u'issues', u'on', u'your', u'and', u'not', u'getting', u'resolution', u'from', u',', u'there', u'is', u'a', u'law', u'firm', u'that', u'is', u'putting', u'together', u'a', u'class', u'action', u'suit', u'against', u',', u'you', u'can', u'contact', u'them', u'at', u'www.attorneyzim.com', u'.']
+	transmission
+	issues
+[u'other', u'thing', u':', u'I', u"'m", u'having', u'an', u'ongoing', u'issue', u'with', u'a', u'fuel', u'odor', u'that', u'is', u'very', u'strong', u'at', u'times', u',', u'it', u'is', u'intermittent', u',', u'I', u'ca', u"n't", u'make', u'it', u'happen', u'and', u'I', u'ca', u"n't", u'get', u'the', u'dealer', u'to', u'take', u'the', u'situation', u'seriously', u'.']
+	issues
+	fuel
+[u'My', u'next', u'``', u"''", u'battle', u'!']
+[u'I', u'have', u'had', u'nothing.trouble', u'with', u'my', u'Ford', u'Focus', u'.']
+[u'The', u'transmission', u'is', u'so', u'jerky', u',', u'that', u'you', u'can', u'not', u'drink', u'coffee', u'without', u'it', u'landing', u'in', u'your', u'lap', u'.']
+	transmission
+	cupholders
+[u'If', u'stopped', u'behind', u'another', u'car', u'and', u'you', u'go', u'to', u'take', u'off', u',', u'it', u'hesitates', u'and', u'then', u'lunges', u'forward', u'.']
+[u'Had', u'it', u'in', u'the', u'shop', u'times', u',', u'written', u',', u'and', u'all', u'say', u'the', u'same', u',', u'``', u'it', u'is', u'within', u"'s", u'acceptable', u'allowance', u"''", u'.']
+[u'I', u'guess', u'it', u'is', u'okay', u'to', u'make', u'a', u'lousy', u'transmission', u',', u'as', u'long', u'as', u'you', u'also', u'make', u'lousy', u'allowances', u'.']
+	transmission
+[u'does', u'not', u'care', u'about', u'customer', u'satisfaction', u'.']
+[u'I', u'have', u'been', u'buying', u'for', u'yeas', u',', u'.this', u'will', u'be', u'my', u'last', u'.']
+[u'This', u'car', u'is', u'a', u'huge', u'disappointment', u'.']
+[u'I', u'have', u'owned', u'different', u'NEW', u'vehicles', u'and', u'I', u'am', u'years', u'old', u'.']
+[u'I', u'have', u'had', u'problems', u'with', u'only', u'1', u'until', u'now', u'.']
+	issues
+[u'the', u'previous', u'one', u'stepped', u'up', u'to', u'the', u'plate', u'and', u'fixed', u'.']
+[u'This', u'one', u'they', u'will', u'not', u'.']
+[u'The', u'transmission', u'issues', u'on', u'my', u'wife', u"'s", u'Ford', u'Focus', u'is', u'an', u'abomination', u'.']
+	transmission
+	issues
+[u'Even', u'my', u'kids', u'who', u'are', u'preoccupied', u'with', u'their', u'phones', u'in', u'the', u'car', u'notice', u'how', u'bad', u'it', u'is', u'!']
+	cellphone
+[u'It', u'will', u'shudder', u',', u'vibrate', u'and', u'shake', u'the', u'whole', u'car', u'when', u'accelerating', u'from', u'a', u'stop', u'and', u'from', u'to', u'gear', u'.']
+	feel
+	acceleration
+	gears
+[u'It', u'feels', u'like', u'it', u'is', u'going', u'to', u'fall', u'out', u'of', u'the', u'car', u'.']
+	feel
+[u'I', u'have', u'had', u'it', u'in', u'for', u'service', u'times', u'and', u'the', u'time', u'they', u'reprogrammed', u'the', u'(', u'powertrain', u'control', u'module', u')', u'.']
+	maintenance
+	control
+[u'It', u'actually', u'got', u'worse', u'.']
+[u'The', u'time', u'they', u'said', u'it', u'was', u'normal', u'because', u'it', u'was', u'a', u'manual', u'transmission', u'that', u'is', u'shifted', u'automatically', u'.']
+	transmission
+[u'What', u'?']
+[u'I', u'am', u'fairly', u'certain', u'that', u'when', u'we', u'purchased', u'the', u'vehicle', u'it', u'was', u'marketed', u'as', u'a', u'6-speed', u'AUTOMATIC', u'!', u'!', u'!']
+[u'False', u'advertising', u'!']
+[u'also', u'states', u'that', u'the', u'transmission', u'technology', u'is', u'to', u'better', u'fuel', u'efficiency', u'.']
+	transmission
+	technology
+	fuel
+[u'I', u'also', u'do', u'not', u'remember', u'signing', u'any', u'papers', u'stating', u'that', u'ride', u'quality', u'and', u'safety', u'will', u'be', u'compromised', u'for', u'fuel', u'efficiency', u'.']
+	ride
+	quality
+	safety
+	fuel
+[u'I', u'will', u'be', u'pursuing', u'the', u'lemon', u'law', u'if', u'it', u'is', u'not', u'remedied', u'soon', u'.']
+[u'If', u'I', u'would', u'have', u'read', u'the', u'reviews', u'before', u'I', u'bought', u'this', u'car', u'I', u'would', u'have', u'never', u'bought', u'it', u'.']
+[u'Culutch', u'issues', u'refuses', u'to', u'fix', u'it', u'because', u'its', u'not', u'bad', u'enough', u'to', u'replace', u'yet', u'.']
+	issues
+[u'Over', u'all', u'the', u'car', u'is', u'nice', u',', u'its', u'sporty', u',', u'drives', u'good', u'.']
+	ride
+[u'I', u'have', u'always', u'stood', u'by', u'a', u'ford', u'Not', u'sure', u'now', u'Stay', u'away', u'from', u'Focus']
+[u'Great', u'car', u',', u'fun', u'to', u'drive', u',', u'very', u'good', u'gas', u'mileage', u',', u'no', u'complaints', u'.']
+	fun
+	ride
+	fuel
+	mileage
+[u'Honestly', u',', u'there', u'is', u'reason', u'i', u'would', u'never', u'buy', u'this', u'car', u'again', u'.']
+[u'The', u'transmission', u'is', u'horrible', u'.']
+	transmission
+[u'We', u'have', u'had', u'it', u'in', u'times', u',', u'and', u'had', u'the', u'clutch', u'(', u'its', u'an', u'automatic', u')', u',', u'replaced', u'once', u'.']
+	transmission
+[u'Today', u'i', u'am', u'taking', u'it', u'in', u'for', u'a', u'time', u'.']
+[u'All', u'they', u'say', u'is', u'``', u'we', u"'ll", u'test', u'it', u'and', u'if', u'its', u'score', u'is', u'X', u'we', u"'ll", u'look', u'into', u'it', u'further', u'.']
+[u'If', u'they', u'do', u"n't", u'fix', u'this', u',', u'i', u"'m", u'going', u'to', u'just', u'sell', u'it', u'and', u'buy', u'a', u'.']
+[u'The', u'other', u'thing', u'that', u'is', u'horrible', u'is', u'the', u'Sync', u'software', u'.']
+	sync
+	computer
+[u'My', u'wife', u'even', u'has', u'a', u'Windows', u'phone', u'and', u'its', u'horrible', u'to', u'sync', u'.']
+	windows
+	cellphone
+	sync
+[u'It', u"'s", u'too', u'bad', u',', u'this', u'could', u'have', u'been', u'a', u'great', u'car', u',', u'.the', u'transmission', u'is', u'just', u'THAT', u'BAD', u'.']
+	transmission
+[u'After', u'owning', u'the', u'for', u'less', u'than', u'2', u'years', u',', u'I', u'decided', u'that', u'I', u'did', u"n't", u'want', u'to', u'own', u'it', u'when', u'the', u'warranty', u'ran', u'out', u'.']
+	warranty
+[u'I', u'tested', u',', u',', u'and', u'.']
+[u'I', u'was', u'more', u'impressed', u'with', u'the', u'than', u'any', u'of', u'these', u',', u'.still', u'a', u'bit', u'hesitant', u'to', u'go', u'from', u'an', u'to', u'a', u'.']
+	feel
+[u'Well', u',', u'I', u'could', u"n't", u'be', u'happier', u'.']
+[u'While', u'it', u'does', u"n't", u'have', u'all', u'the', u'pep', u'of', u'the', u'turbo', u'on', u'the', u',', u'it', u'handles', u'just', u'as', u'well', u',', u'is', u'actually', u'quieter', u'riding', u',', u'and', u'has', u'better', u'navigation', u'.']
+	engine
+	noise
+	navigation
+[u'Added', u'benefits', u'are', u'regular', u'gas', u',', u'better', u'mileage', u',', u'and', u'a', u'lower', u'car', u'payment', u'!']
+	fuel
+	mileage
+[u'I', u'have', u'owned', u'a', u'Titanium', u'sedan', u'for', u'2', u'months', u'now', u'and', u'have', u'5000', u'miles', u'on', u'it', u'.']
+[u'I', u'bought', u'it', u'new', u'and', u'it', u'has', u'been', u'great', u'.']
+[u'I', u'average', u'mpg', u'with', u'mostly', u'highway', u'and', u'country', u'driving', u'.']
+	mpg
+	highway
+[u'This', u'car', u'is', u'quiet', u'and', u'comfortable', u'for', u'a', u'small', u'car', u'.']
+	noise
+[u'The', u'transmission', u'works', u'like', u'it', u'should', u'with', u'precise', u'shifts', u'and', u'smooth', u'operation', u'.']
+	transmission
+[u'Every', u'control', u'and', u'feature', u'of', u'the', u'car', u'has', u'been', u'engineered', u'and', u'thought', u'through', u'on', u'a', u'high', u'level', u'.']
+	control
+	features
+[u'I', u'only', u'wish', u'there', u'was', u'the', u'home', u'link', u'feature', u'on', u'the', u'visor', u'to', u'program', u'a', u'garage', u'door', u'opener', u'.']
+	features
+	amenities
+[u'I', u'am', u'a', u'happy', u'camper', u'with', u'this', u'car', u'.']
+[u'update', u':', u'Car', u'has', u'almost', u'miles', u'.']
+[u'No', u'problems', u'.']
+	issues
+[u'Averaging', u'mpg', u'.']
+	mpg
+[u'I', u'do', u'a', u'lot', u'of', u'highway', u'driving', u'.']
+	highway
+[u'Only', u'wish', u'is', u'to', u'have', u'the', u'homelink', u'buttons', u'in', u'the', u'visor', u'for', u'the', u'garage', u'door', u'opener', u'.']
+	buttons
+	amenities
+[u'I', u'brought', u'this', u'car', u'for', u'work', u'.']
+[u'I', u"'m", u'a', u'uber', u'driver', u'so', u'I', u'put', u'a', u'lot', u'of', u'miles', u'on', u'it', u'in', u'a', u'short', u'time', u'.']
+[u'After', u'driving', u'it', u'for', u'a', u'while', u'it', u'jerk', u'a', u'little', u'and', u'the', u'dealership', u'said', u'that', u'the', u'way', u'the', u'car', u'works', u'.']
+	ride
+	feel
+[u'But', u'after', u'few', u'months', u'pass', u'the', u'engine', u'light', u'came', u'on', u'and', u'the', u'car', u'would', u"n't", u'pass', u'.']
+	engine
+	lights
+[u'I', u'could', u"n't", u'get', u'on', u'the', u'high', u'or', u'work', u'.']
+[u'I', u'been', u'to', u'the', u'shop', u'times', u'and', u'each', u'time', u'I', u'get', u'it', u'back', u'the', u'same', u'problem', u'come', u'back', u'up', u'.']
+	issues
+[u'It', u'only', u'has', u'28,000', u'miles', u'on', u'it', u'.']
+[u'Do', u"n't", u'buy', u'this', u'car', u',', u'I', u'also', u'heard', u'fiesta', u'has', u'the', u'same', u'problems..']
+	issues
+[u'It', u'allow', u'on', u'the', u'dual', u'clutch', u'system', u'they', u'have', u'in', u'the', u'transmission', u'.']
+	transmission
+[u'Despite', u'it', u'getting', u'great', u'gas', u'mileage', u'and', u'the', u'interior', u'being', u'very', u'spacious', u'for', u'the', u'size', u'of', u'the', u'car', u',', u'the', u'car', u'is', u'far', u'from', u'a', u'glorious', u'car', u'.']
+	fuel
+	mileage
+	interior
+	room
+	size
+[u'No', u'matter', u'how', u'you', u'drive', u'the', u'car', u',', u'the', u'engine', u'will', u'give', u'out', u'easily', u'.']
+	ride
+	engine
+[u'The', u'engine', u'or', u'transmission', u'is', u'bound', u'to', u'blow', u'.']
+	engine
+	transmission
+[u'The', u'interior', u'is', u'spacious', u',', u'.it', u'is', u'also', u'very', u',', u'very', u',', u'very', u'cheap', u'feeling', u'.']
+	interior
+	room
+	feel
+[u'Everything', u'in', u'aide', u'is', u'made', u'of', u'cheap', u'low', u'grade', u'plastic', u'and', u'does', u'not', u'have', u'a', u'very', u'pleasant', u'feel', u'.']
+	materials
+	feel
+[u'The', u'steering', u'wheel', u'is', u'the', u'only', u'part', u'of', u'the', u'interior', u'that', u'feels', u'like', u'any', u'effort', u'went', u'into', u'finding', u'a', u'proper', u'material', u'for', u'it', u'.']
+	steering
+	tires
+	interior
+	feel
+	materials
+[u'Love', u'this', u'car', u'.']
+[u'Primary', u'goal', u'was', u'to', u'get', u'a', u'vehicle', u'that', u'got', u'great', u'mileage', u'.']
+	mileage
+[u'Was', u"n't", u'aware', u'that', u'Focus', u'got', u'this', u'kind', u'of', u'superb', u'mileage', u'until', u'I', u'started', u'researching', u'.']
+	mileage
+[u'LOVE', u'this', u'car', u'.']
+[u'Backup', u'camera', u',', u',', u'SYNC', u'hands-free', u'and', u'a', u'really', u'nice', u'sounding', u'radio', u'.']
+	sensors
+	camera
+	sync
+	radio
+[u'The', u'radio', u'gets', u'outstanding', u'long', u'distance', u'reception', u'that', u'surpasses', u'any', u'radio', u'in', u'past', u'thirty', u'years', u'.']
+	radio
+[u'I', u"'m", u'a', u'very', u'large', u'man', u'and', u'I', u'fit', u'into', u'this', u'car', u'very', u'easily', u'.']
+[u'Drive', u'hour', u'each', u'way', u'to', u'work', u'and', u'am', u'not', u'cramped', u'up', u'and', u'tired', u'afterwards', u'like', u'I', u'was', u'in', u'a', u'.']
+	ride
+[u'Trunk', u'has', u'more', u'usable', u'space', u'than', u'my', u'MKS', u'.']
+	storage
+	room
+[u'Very', u'happy', u'I', u'found', u'the', u'Focus', u'.']
+[u'Still', u'loving', u'this', u'choice', u'after', u'driving', u'over', u'miles', u'.']
+	ride
+[u'Nothing', u'to', u'complain', u'about', u'with', u'the', u'Focus', u'at', u'all', u'so', u'far', u'.']
+[u'This', u'is', u'our', u'Focus', u'.']
+[u'was', u'a', u'which', u'was', u'very', u'economical', u'to', u'drive', u'.']
+	cost
+	ride
+[u'Bought', u'a', u'SE', u'automatic', u'year', u'and', u'liked', u'it.there', u'were', u'a', u'couple', u'of', u'options', u'I', u'wished', u'I', u"'d", u'gotten', u'with', u'it', u'.']
+	features
+[u'A', u'couple', u'of', u'things', u'I', u'did', u"n't", u'like', u'about', u'the', u"'14", u'were', u'no', u'12V', u'plug', u'on', u'the', u'dash', u'and', u'no', u'lock', u'buttons', u'on', u'the', u'doors', u'.']
+	dashboard
+	locks
+	buttons
+[u'Traded', u'it', u'in', u'for', u'the', u'SE', u'year', u'and', u'glad', u'I', u'did', u'.']
+[u'Everything', u'I', u'did', u"n't", u'like', u'on', u'the', u'was', u'corrected', u'on', u'the', u',', u'plug', u'on', u'the', u'dash', u',', u'lock', u'buttons', u'on', u'the', u'doors', u',', u'etc', u'.']
+	dashboard
+	locks
+	buttons
+[u'I', u'had', u'no', u'problems', u'with', u'the', u'shifting', u'on', u'the', u'.']
+	issues
+[u'Not', u'as', u'smooth', u'as', u'a', u'full', u'size', u'car.it', u'it', u'shifted', u'fine', u'for', u'the', u'miles', u'I', u'had', u'on', u'it', u'.']
+	size
+[u'You', u'have', u'to', u'realize', u'even', u'though', u'it', u"'s", u'an', u'automatic', u'you', u'feel', u'it', u'shift', u'like', u'a', u'standard', u'.']
+	feel
+[u'If', u'you', u'do', u"n't", u'like', u'power', u'shifting', u'get', u'a', u'.']
+	power
+[u'The', u'does', u'seem', u'to', u'shift', u'smoother', u'than', u'the', u'and', u'has', u'the', u'manual', u'shift', u'paddles', u'which', u'I', u'tried', u'and', u'they', u'work.for', u'me', u'the', u'shift', u'points', u'are', u'fine', u'in', u'automatic', u'so', u'I', u'wont', u'use', u'the', u'paddles', u'much', u'if', u'ever', u'.']
+[u'I', u'got', u'the', u'2.0L', u'engine', u'for', u'the', u'power', u'with', u'larger', u'wheels', u'and', u'get', u'a', u'steady', u'34', u'mpg', u'around', u'town', u'.']
+	engine
+	power
+	tires
+	mpg
+[u'Longer', u'trips', u'on', u'the', u'highway', u'I', u'get', u'a', u'little', u'better', u'(', u'mid', u'to', u'high', u'30s', u')', u'.do', u"n't", u'hold', u'back', u'on', u'the', u'speed', u'.']
+	highway
+[u'This', u'car', u'handles', u'great', u'.']
+[u'I', u'drove', u'others', u'in', u'this', u'class', u'Toyota/Honda/VW', u'and', u'this', u'one', u'is', u'the', u'most', u'fun', u'to', u'drive', u'.']
+	ride
+	fun
+[u'Electronics', u'work', u'fine', u'and', u'blue', u'tooth', u'and', u'work', u'as', u'they', u'should', u'.']
+[u'Sync', u'voice', u'commands', u'are', u'still', u'a', u'challenge', u'if', u'you', u'do', u"n't", u'speak', u'clearly', u'.']
+	sync
+[u'I', u'like', u'having', u'both', u'the', u'analog', u'and', u'digital', u'gauges', u'on', u'the', u'(', u'the', u'only', u'had', u'an', u'analog', u'spedo', u')', u'.']
+	gauges
+[u'The', u'heat/AC', u'controls', u'are', u'great', u'on', u'the', u'as', u'there', u'is', u'a', u'individual', u'on/off', u'button', u'for', u'everything', u'including', u'each', u'vent/defrost', u'.']
+	control
+	buttons
+[u'No', u'more', u'trying', u'to', u'figure', u'out', u'which', u'position', u'on', u'a', u'dial', u'to', u'use', u'to', u'heat', u'your', u'feet', u'and', u'the', u'windshield', u'at', u'the', u'same', u'time', u'.']
+	gauges
+	windows
+[u'All', u'in', u'all', u'the', u'hatch', u'is', u'fun', u'to', u'drive', u',', u'handles', u'and', u'looks', u'great', u',', u'and', u'has', u'enough', u'room', u'for', u'our', u'large', u'dogs', u'in', u'the', u'back', u'.']
+	fun
+	ride
+	room
+[u'My', u'parents', u'bought', u'me', u'this', u'car', u'for', u'my', u'birthday', u'early', u'2015', u'.']
+[u'As', u'soon', u'as', u'I', u'saw', u'the', u'car', u'at', u'the', u'dealership', u',', u'I', u'knew', u'it', u'would', u'be', u'perfect', u'.']
+[u'As', u'a', u'newer', u'driver', u',', u'I', u'wanted', u'to', u'be', u'driving', u'a', u'car', u'that', u'was', u'not', u'only', u'easy', u'to', u'drive', u'and', u'gets', u'good', u'gas', u'mileage', u',', u'.is', u'safe', u'and', u'comfortable', u'as', u'well', u'.']
+	ride
+	fuel
+	mileage
+[u'The', u'Focus', u'Hatchback', u'SE', u'meets', u'all', u'those', u'expectations', u'.']
+[u'Originally', u'we', u'planned', u'on', u'getting', u'a', u'Focus', u',', u'.the', u'was', u'only', u'$', u'1k', u'more', u'so', u'we', u'decided', u'to', u'get', u'the', u'newest', u'model', u'.']
+[u'The', u'car', u'itself', u'is', u'very', u'sporty', u',', u'with', u'black', u'and', u'silver', u'rims', u'as', u'well', u'as', u'paddle', u'shifters', u'on', u'the', u'steering', u'wheel', u'(', u'for', u'those', u'who', u'would', u'like', u'to', u'drive', u'the', u'car', u'in', u'the', u'optional', u'sport/manual', u'mode', u')', u'.']
+	tires
+	transmission
+	steering
+	ride
+[u'The', u'cloth', u'interior', u'is', u'very', u'durable', u'and', u'comfortable', u'.']
+	materials
+	interior
+	reliability
+[u'The', u'radio', u',', u'bluetooth', u',', u'and', u'climate', u'control', u'are', u'also', u'user', u'friendly', u'for', u'those', u'who', u'may', u'not', u'be', u'used', u'to', u'having', u'more', u'technology', u'in', u'their', u'car', u'.']
+	radio
+	bluetooth
+	ac
+	control
+	technology
+[u'Driving', u'the', u'hatchback', u'is', u'smooth', u',', u'and', u'especially', u'quiet', u'on', u'the', u'freeway', u'or', u'on', u'bumpier', u'roads', u'.']
+	ride
+	noise
+	highway
+[u'The', u'thing', u'I', u'found', u'surprising', u'in', u'this', u'car', u'is', u'the', u'sensitivity', u'of', u'the', u'accelerator', u';', u'you', u'do', u'not', u'have', u'to', u'press', u'down', u'hard', u'on', u'it', u'for', u'the', u'car', u'to', u'accelerate', u'quickly', u'.']
+	acceleration
+[u'The', u'only', u'downside', u'to', u'the', u'car', u'is', u'the', u'leg', u'room', u'for', u'the', u'back', u'seats', u'.']
+	room
+	seats
+[u'However', u',', u'it', u'wo', u"n't", u'matter', u'as', u'much', u'if', u'you', u'are', u'driving', u'with', u'or', u'other', u'people', u'.']
+	ride
+[u'There', u'is', u'a', u'ton', u'of', u'trunk', u'space', u',', u'which', u'can', u'even', u'fit', u'a', u'couple', u'sets', u'of', u'golf', u'clubs/bags', u'.']
+	storage
+	room
+[u'This', u'car', u'is', u'great', u',', u'and', u'perfect', u'for', u'newer', u'drivers', u'and', u'students', u'.']
+[u'This', u'car', u'should', u'be', u'removed', u'from', u'the', u'market', u'until', u'the', u'transmission', u'is', u'completely', u'reworked', u'and', u'a', u'recall', u'done', u'on', u'all', u'those', u'that', u'have', u'been', u'sold', u'.']
+	transmission
+[u'I', u'have', u'had', u'mine', u'a', u'week', u'and', u'I', u'think', u'the', u'transmission', u'is', u'complete', u'crap', u'.']
+	transmission
+[u'It', u'slips', u',', u'shudders', u',', u'jitters', u',', u'and', u'surges', u'when', u'starting', u'out', u'from', u'a', u'stop', u'.']
+	feel
+[u'I', u'have', u'a', u'Ford', u'Focus', u'.']
+[u'After', u'miles', u'the', u'transmission', u'issue', u'started', u',', u'I', u'thought', u'it', u'needed', u'an', u'oil', u'change', u',', u'.after', u'miles', u'I', u'took', u'the', u'car', u'in', u'to', u'be', u'looked', u'at', u'and', u'was', u'told', u'there', u'was', u'no', u'fix', u'!']
+	transmission
+	issues
+	oil
+[u'All', u'they', u'can', u'do', u'is', u'change', u'the', u'clutch', u'assembly', u'and', u'I', u'would', u'probably', u'be', u'back', u'every', u'miles', u'to', u'fix', u'the', u'issue', u'again', u'!']
+	transmission
+	issues
+[u'After', u'the', u'warranty', u'runs', u'out', u'I', u'have', u'to', u'pay', u'for', u'the', u'issue', u'.']
+	warranty
+	issues
+[u'I', u'looked', u'it', u'up', u'and', u'the', u'2011-2015', u'Ford', u'Focus', u'and', u'fiesta', u'all', u'have', u'this', u'same', u'problem', u'.']
+	issues
+[u'I', u'have', u'had', u'Hondas', u'and', u'Fortwo', u'in', u'my', u'life', u'.']
+[u'This', u'focus', u'is', u'awful', u'compared', u'to', u'the', u'rest', u'.']
+[u'The', u'smart', u'car', u'seemed', u'like', u'a', u'real', u'downgrade', u'from', u'my', u'Hondas.it', u'shines', u'like', u'a', u'gem', u'compared', u'to', u'this', u'piece', u'of', u'garbage', u'.']
+[u'The', u'main', u'thing', u'that', u'I', u'can', u'not', u'get', u'over', u'is', u'the', u'transmission', u'.']
+	transmission
+[u',', u'what', u'in', u'god', u"'s", u'name', u'possessed', u'you', u'to', u'release', u'a', u'vehicle', u'that', u'drives', u'like', u'this', u'?']
+	ride
+[u'Every', u'single', u'time', u'you', u'press', u'the', u'accelerator', u'from', u'a', u'red', u'light', u'or', u'stop', u'sign', u'the', u'transmission', u'kicks', u',', u'jerks', u',', u'and', u'vibrates', u'through', u'most', u'of', u'gear', u'.']
+	acceleration
+	lights
+	transmission
+	feel
+	gears
+[u'It', u'feels', u'like', u'the', u'transmission', u'is', u'going', u'to', u'slip', u'right', u'out', u'of', u'gear', u'each', u'time', u'and', u'it', u'scares', u'me', u'.']
+	feel
+	transmission
+	gears
+[u'I', u'never', u'know', u'when', u'the', u'transmission', u'might', u'go', u'.']
+	transmission
+[u'For', u'being', u'a', u'``', u'dual', u'clutch', u"''", u'its', u'awful', u'.']
+	transmission
+[u'The', u'have', u'been', u'using', u'these', u'transmissions', u'for', u'a', u'long', u'while', u'now', u'and', u'they', u'run', u'beautifully', u'.']
+	transmission
+[u'Why', u'still', u'can', u'not', u'get', u'it', u'right', u'baffles', u'me', u'.']
+[u'Next', u'is', u'the', u'driving', u'position', u'.']
+[u'I', u'am', u"6'3", u"''", u'so', u'my', u'seat', u'is', u'all', u'the', u'way', u'back', u'.']
+	seats
+[u'I', u'cant', u'look', u'out', u'the', u'window', u'without', u'half', u'of', u'my', u'view', u'being', u'obstructed', u'by', u'the', u'B', u'pillar', u'.']
+	windows
+	visibility
+[u'And', u'no', u'the', u'back', u'of', u'my', u'seat', u'is', u'not', u'tilted', u'way', u'back', u'.']
+	seats
+[u'A', u'great', u'looking', u'car', u'with', u'great', u'potential', u'killed', u'by', u'sloppy', u'engineering', u'.']
+[u'I', u'have', u'had', u'this', u'car', u'for', u'a', u'little', u'over', u'months', u'and', u'it', u'has', u'been', u'a', u'nightmare', u'.']
+[u'In', u'beginning', u'of', u'year', u',', u'I', u'began', u'having', u'intermittent', u'transmission', u'issues', u'.']
+	transmission
+	issues
+[u'The', u'car', u'shutters', u',', u'hesitates', u'and', u'will', u'not', u'accelerate', u'from', u'a', u'stop', u'.']
+	acceleration
+[u'I', u'have', u'taken', u'this', u'to', u'different', u'dealerships', u'and', u'``', u'there', u'is', u'a', u'normal', u'amount', u'of', u'shutter', u'for', u'these', u'vehicles', u"''", u'.']
+[u'The', u'dealerships', u'keep', u'telling', u'me', u'to', u'bring', u'it', u'back', u'if', u'the', u'problem', u'persists', u'.']
+	issues
+[u'The', u'problem', u'is', u'now', u'happening', u'everyday', u'.']
+	issues
+[u'I', u'refuse', u'to', u'drive', u'my', u'car', u'more', u'than', u'10', u'miles', u'away', u'from', u'my', u'home', u'.']
+	ride
+[u'This', u'car', u'is', u'very', u'uncomfortable', u'to', u'drive', u',', u'considering', u'you', u'and', u'your', u'passengers', u'shake', u'every', u'time', u'you', u'accelerate', u';', u'regardless', u'if', u'you', u'have', u'a', u'heavy', u'foot', u'or', u'not', u'.']
+	comfort
+	ride
+	feel
+	acceleration
+[u'This', u'is', u'a', u',', u'I', u'should', u'not', u'be', u'dealing', u'with', u'these', u'types', u'of', u'frustrations', u'this', u'early', u'into', u'leasing', u'this', u'vehicle', u'.']
+	cost
+[u'Had', u'I', u'read', u'previous', u'reviews', u'on', u'this', u'vehicle', u'before', u',', u'I', u'would', u'not', u'have', u'put', u'a', u'single', u'dime', u'into', u'this', u'vehicle', u'.']
+[u'Within', u'months', u'of', u'my', u'lease', u'with', u'months', u'to', u'go', u',', u'I', u'am', u'turning', u'this', u'in', u'early', u'and', u'buying', u'a', u'NON-FORD', u'product', u'.']
+[u'I', u'am', u'very', u'disappointed', u'with', u'this', u'vehicle', u'.']
+[u'Good', u'value', u'for', u'price', u'.']
+	cost
+[u'Get', u'the', u'Titanium', u'if', u'you', u'want', u'a', u'bunch', u'of', u'standard', u'features', u'.']
+	features

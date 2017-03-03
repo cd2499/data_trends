@@ -1,0 +1,24 @@
+exterior	ixterior	0.08
+exterior	lexterior	0.08
+design	0.08
+design	dezign	0.08
+design	deign	0.08
+control	0.08
+light	0.08
+radio	0.08
+price	0.09
+door	0.10
+noise	0.10
+speed	0.10
+highway	0.11
+wheel	0.12
+transmission	0.13
+steering	0.14
+quality	0.15
+quality	0.15
+power	0.21
+mileage	0.22
+engine	0.23
+seat	0.23
+interior	0.27
+gas	0.30

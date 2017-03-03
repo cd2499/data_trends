@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GM Topic Trend - Reviews</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container-fluid">
+  <h1>GM Topic Trend</h1>
+  <h2>Big Data Analytics and Understanding Customer Sentiment</h2>
+
+
+	<br>
+	<br>
+	<h3>Edmunds.com Vistor Reviews</h3>
+	<br>
+	<br>
+
+
+	<ul style="list-style:none;">
+    		{% for reviews in d %}
+        		<li>{{ reviews }}</li>
+    		{% endfor %}
+    	</ul>
+
+
+</div>
+
+<!-- <ul class="pager">
+  <li class="previous"><a href="componentresults.html">Back to Component Results</a></li>
+  <li class="next"><a href="{% url 'home' %}">Back to Main Menu</a></li>
+</ul> -->
+
+<br>
+<br>
+<img src="/static/rankcars/content/300_horizontal_red.png">
+<br>
+<br>
+<p>Edmunds.com visitor vehicle ratings and reviews are the property of Edmunds.com, and may not be reproduced or distributed without the consent of Edmunds.com.<br>Edmunds&#174; is a trademark of Edmunds.com, Inc.<br>Edmunds.com is not affiliated with this website or app.</p>
+<br>
+<br>
+
+</body>
+</html>

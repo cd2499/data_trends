@@ -1,0 +1,24 @@
+#!/bin/bash
+# my first script. this is a comment line
+#id
+#echo Kabang01 | su -c whoami hduser
+#sudo -u hduser start-dfs.sh
+#id
+
+#Need to be logged in as hduser to run process
+if [ "$(whoami)" = 'hduser' ]; then
+
+	#start hadoop hdfs and yarn: yarn is used by hdfs for controlling how data is stored and processed
+	start-dfs.sh && start-yarn.sh
+
+	#start hbase: hbase is the database that sits on top of hdfs
+	start-hbase.sh
+
+	#start thrift: thrift is used by apis to interact with hdsfs/hbase
+	hbase thrift start -threadpool
+
+	#eventually add in cd to location of app and start up server
+else
+	echo "Please switch to hduser to run sentiment analysis app."
+
+fi;

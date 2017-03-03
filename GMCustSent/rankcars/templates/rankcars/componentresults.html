@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GM Topic Trend - Component Results</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+<style>
+    table, th, td{
+        border-collapse: collapse;
+        style: "width:100%;
+    }
+    th, td{
+        padding: 5px;
+        text-align:left;
+    }
+</style>
+
+
+<div class="container-fluid">
+  <h1>GM Topic Trend</h1>
+  <h2>Big Data Analytics and Understanding Customer Sentiment</h2>
+
+
+    Number of reviews: {{c}}
+    <ul style="list-style:none;">
+    {% for cars in a %}
+        <li>{{ cars }}</li>
+    {% endfor %}
+    </ul>
+    <br>
+    <!-- <ul style="list-style:none;">
+    {% for reviews in d %}
+        <li>{{ reviews }}</li>
+    {% endfor %}
+    </ul> -->
+    <!-- <img src="/static/app/content/bar.png"> -->	
+    <a href="reviews.html" role="button" class="btn btn-primary btn-large" target="_blank">Show me the reviews</a>
+    <a href="graph.html" role="button" class="btn btn-primary btn-large" target="_blank">Show me the graph</a>
+	<br>
+	<br>
+	<br>
+	<br>
+    <!-- <table>
+        <tr>
+            <th>Results</th>
+            <th>Score</th>
+        </tr>
+        <tr>
+            <td>Car1</td>
+            <td>car1Score</td>
+        </tr>
+            <tr>
+            <td>Car2</td>
+            <td>car2Score</td>
+        </tr>
+            <tr>
+            <td>Car3</td>
+            <td>car3Score</td>
+        </tr>
+    </table> -->
+
+
+
+
+
+
+	
+
+</div>
+
+
+<ul class="pager">
+  <li class="previous"><a href="carselect.html">Back to Select Cars</a></li>
+  <li class="next"><a href="{% url 'home' %}">Back to Main Menu</a></li>
+</ul>
+
+
+</body>
+</html>
